@@ -1,7 +1,7 @@
 # Shards of Sin
+# Shattered Star
 
 _This is a conversion of the Adventure Path Shards of Sin (Shattered Star Book 1) to Pathfinder 2nd edition.  This is intended to be a faithful conversion from the original meant for 4 players.  Since I am running this for 5 players I will also note potential additions for 5 players. Expected level up points are noted and threat level of encounters are relative to those expected levels.  However, I use milestone leveling, so specific XP values are not given. At the time this conversion was made the only official monster stats that were available were from Bestiary 1 & 2 and the Gamemastery Guide.  In the future you may want to use official stats for monsters that have since been published._
-
 _In addition to the adventure path itself I will be adding several “Additions” which are mostly modules taken from season 4 of Pathfinder Society that are intended to enhance the adventure path. These conversions will be kept in separate documents so that this conversion is faithful to the original adventure, but the places where I would add the content is noted._
 
 
@@ -438,7 +438,46 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
 
 ## Shards
 
-
-
 *   [Shard of Pride](https://template.pf2.tools/v/DtOS4T83)
 *   [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
+
+-------------
+
+A repository to hold tools for those wishing to run and convert Shattered Star to Pathfinder 2E.
+The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
+
+* [Book 1: Shards of Sin](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book1)
+* [Book 2: Curse of the Lady's Light](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book2)
+* [Book 3: The Asylum Stone](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book3)
+* [Book 4: Beyond the Doomsday Door](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book4)
+* [Book 5: Into the Nightmare Rift](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book5)
+* [Book 6: The Dead Heart of Xin](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book6)
+
+## How does this even work?
+
+[What is Github?](https://youtu.be/U1C0F-Au9h4)
+On GitHub, you can share text files (usually code) and collaborate with others. The nice thing is that README.md files display as you're browsing the folders of a GitHub Project using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).
+<br/>
+### Making Changes
+
+This tutorial should be applicable to any of the AP repositories out there.<br/>
+There's an in browser editor that makes it easy to change the files you see and submit a request to chave them permanently changed.
+Just click into the file you want to change and select the edit button in the top right.
+![editor icon on GitHub](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/ClickEditOnReadmePage.png)
+After changing, there will be a button at the bottom of the browser editor to "Propose file change", feel free to include a message on why it was changed.
+![typing changes](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/TypingChanges.png)
+![submit changes](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/ProposeFileChange.png)
+After clicking that button, it will show you the changes you've made and have a new button near the top of the page to "Create pull request". 
+![create a pull request](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/CreatePR.png)
+![open pull request](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/OpenPR.png)
+This sends the changes in to become permanent record in the repository.
+![submitted pull request](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/PR-submitted.png)
+Now you can comment on the changes and discuss with others that change before it's solidified.
+![comments section](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/CommentsOnPR.png)
+Members can now approve your changes. 
+![where PRs go](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/WherePRsGo.png)
+Once you're added as a member, you can approve changes as well but all the changes are tracked so if we make a mistake, we can refer back to the old version. (just ask @mirkorainer on GitHub or in the [A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H))
+
+## Recommended Tool
+http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
+Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
