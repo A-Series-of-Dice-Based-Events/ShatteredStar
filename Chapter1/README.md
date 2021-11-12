@@ -1,6 +1,4 @@
 # Shards of Sin
-# Shattered Star
-
 _This is a conversion of the Adventure Path Shards of Sin (Shattered Star Book 1) to Pathfinder 2nd edition.  This is intended to be a faithful conversion from the original meant for 4 players.  Since I am running this for 5 players I will also note potential additions for 5 players. Expected level up points are noted and threat level of encounters are relative to those expected levels.  However, I use milestone leveling, so specific XP values are not given. At the time this conversion was made the only official monster stats that were available were from Bestiary 1 & 2 and the Gamemastery Guide.  In the future you may want to use official stats for monsters that have since been published._
 _In addition to the adventure path itself I will be adding several “Additions” which are mostly modules taken from season 4 of Pathfinder Society that are intended to enhance the adventure path. These conversions will be kept in separate documents so that this conversion is faithful to the original adventure, but the places where I would add the content is noted._
 
@@ -26,8 +24,6 @@ _**Treasure:** +1 Horsechopper, Alchemist’s Fire (Lesser), Cat’s Eye Elixir_
 
 
 #### Starting the Investigation
-
-
 
 *   **Lead 1: The Amazing Zograthy**
     *   DC15 Society or DC10 Lore (Magnimar) to know about Washer’s Row
@@ -70,8 +66,6 @@ _**Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of Heal (level 1), Healer
 
 #### Tower Girl Ambush (Severe 1)
 
-
-
 *   Terisha Skiloni (Use [Bandit](https://2e.aonprd.com/NPCs.aspx?ID=887))
 *   Varisian Thugs (3) (Use [Mercenary](https://pf2.easytool.es/index.php?id=4933&name=mercenary))
 *   For 5 players add the elite adjustment to the thugs.
@@ -79,8 +73,6 @@ _**Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of Heal (level 1), Healer
 
 
 #### Natalya’s Hideout
-
-
 
 *   **A1. Guard Chamber (Trivial 1)**
     *   Varisian Thugs (2) (See above)
@@ -123,7 +115,7 @@ _**Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of Heal (level 1), Healer
 
 _This module gets the players thinking about Lissala some more and is conveniently located on the way back from Riddleport.  It also forces one of the players to deal with the effects of the Shard of Pride for a while which can lead to some fun roleplaying opportunities.  I originally converted this for level 3 characters, but made a level 2 version so it could slot in here.  Conversion is [here](https://docs.google.com/document/d/1QdN5NT6hM1dCNeloxv4Plbpx7dMMcOvzNCeqLNQZke8/edit)._
 
-**_Treasure:** Scroll of Resist Energy, 24gp in gemstones, Onyx Panther, Acrimony Veil_
+_**Treasure:** Scroll of Resist Energy, 24gp in gemstones, Onyx Panther, Acrimony Veil_
 
 
 ### Part Three: In the Crow’s Nest
@@ -131,14 +123,10 @@ _This module gets the players thinking about Lissala some more and is convenient
 
 #### Learning About the Shard
 
-
-
 *   **Treasure:** [Scarlet and Blue Aeon Stone](https://template.pf2.tools/v/X2mRb2Lp)
 
 
 #### The Crow
-
-
 
 *   **B1. Boat Dock**
     *   Windows into **B19 **and **B23** are covered by Illusory Objects (Level 5, DC23)
@@ -196,8 +184,6 @@ _This module gets the players thinking about Lissala some more and is convenient
 
 #### The Crow: Catacomb
 
-
-
 *   **B30. Ant Mounds (Severe 2)**
     *   Giant Worker Ant (4) (Use Weak [Giant Ant](https://2e.aonprd.com/Monsters.aspx?ID=548))
     *   For 5 players add one ant
@@ -225,12 +211,10 @@ _This module gets the players thinking about Lissala some more and is convenient
 
 _This continues to flesh out the Aspis Consortium as an antagonist to the Pathfinders.  This can go anywhere in the second half of the adventure path.  Conversion is [here](https://docs.google.com/document/d/1WSi3Kl3aQP6oQT2-rEGVk5ZfOWfB3CmfyFDr8pW3EO0/edit#heading=h.9ikuooxnc0tu)._
 
-**_Treasure:** [Barkskin Potion](https://2e.aonprd.com/Equipment.aspx?ID=184), [Sturdy Shield (Minor)](https://2e.aonprd.com/Equipment.aspx?ID=327), [Alchemist Goggles](https://pf2.easytool.es/index.php?id=2849&name=alchemist_goggles), [Acid Flask (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=74), [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91)_
+_**Treasure:** [Barkskin Potion](https://2e.aonprd.com/Equipment.aspx?ID=184), [Sturdy Shield (Minor)](https://2e.aonprd.com/Equipment.aspx?ID=327), [Alchemist Goggles](https://pf2.easytool.es/index.php?id=2849&name=alchemist_goggles), [Acid Flask (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=74), [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91)_
 
 
 #### The Crow: Dungeon
-
-
 
 *   **B39. Cellblocks (Low 3)**
     *   Giant Crab Spiders (4) (Use [Dream Spider](https://2e.aonprd.com/Monsters.aspx?ID=813))
@@ -257,8 +241,6 @@ _This continues to flesh out the Aspis Consortium as an antagonist to the Pathfi
 
 
 #### Thassilonian Laboratories
-
-
 
 *   **C1. Ancient Welcome (Low 3)**
     *   DC15 Ancient Thassilon or DC20 Society to recognize Alaznist.
@@ -297,8 +279,8 @@ _This continues to flesh out the Aspis Consortium as an antagonist to the Pathfi
     *   DC20 Arcana or DC18 Ancient Thassilon Lore to recognize the upside down sihedron.
     *   **Treasure:** Tapestries (2) (25gp each, but 8 bulk), [Staff of Healing](https://2e.aonprd.com/Equipment.aspx?ID=357)
 *   **C9. Fighting Pit (Moderate 3)**
-    *   [Imp](https://2e.aonprd.com/Monsters.aspx?ID=109)** **(2)
-    *   Nupperibos (2)
+    *   [Imp](https://2e.aonprd.com/Monsters.aspx?ID=109)(2)
+    *   [Nupperibos](http://monster.pf2.tools/v/L1ovjXQ5) (2)
     *   For 5 players add 1 Nupperibo
 *   **C10. Anteroom**
     *   **Treasure:** DC15 perception to find noqual key
@@ -359,8 +341,6 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
 
 #### Ancient Sewers
 
-
-
 *   **D1. Sewer Entrance**
     *   DC18 Perception to hear the sound of singing from **D5**.
 *   **D2. Treachery at Every Step (Trivial 4)**
@@ -417,8 +397,6 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
 
 ## Side Quests
 
-
-
 *   **Magnimarian Quests**
     *   **Missing Persons**
         *   **Treasure:** 50gp per rescued victim
@@ -440,44 +418,3 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
 
 *   [Shard of Pride](https://template.pf2.tools/v/DtOS4T83)
 *   [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
-
--------------
-
-A repository to hold tools for those wishing to run and convert Shattered Star to Pathfinder 2E.
-The README.md files can have simple breakdowns of modified DCs for various tasks brought up in the Adventure while the individual folders can hold the files for the monster/NPC stat blocks.
-
-* [Book 1: Shards of Sin](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book1)
-* [Book 2: Curse of the Lady's Light](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book2)
-* [Book 3: The Asylum Stone](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book3)
-* [Book 4: Beyond the Doomsday Door](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book4)
-* [Book 5: Into the Nightmare Rift](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book5)
-* [Book 6: The Dead Heart of Xin](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Book6)
-
-## How does this even work?
-
-[What is Github?](https://youtu.be/U1C0F-Au9h4)
-On GitHub, you can share text files (usually code) and collaborate with others. The nice thing is that README.md files display as you're browsing the folders of a GitHub Project using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).
-<br/>
-### Making Changes
-
-This tutorial should be applicable to any of the AP repositories out there.<br/>
-There's an in browser editor that makes it easy to change the files you see and submit a request to chave them permanently changed.
-Just click into the file you want to change and select the edit button in the top right.
-![editor icon on GitHub](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/ClickEditOnReadmePage.png)
-After changing, there will be a button at the bottom of the browser editor to "Propose file change", feel free to include a message on why it was changed.
-![typing changes](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/TypingChanges.png)
-![submit changes](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/ProposeFileChange.png)
-After clicking that button, it will show you the changes you've made and have a new button near the top of the page to "Create pull request". 
-![create a pull request](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/CreatePR.png)
-![open pull request](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/OpenPR.png)
-This sends the changes in to become permanent record in the repository.
-![submitted pull request](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/PR-submitted.png)
-Now you can comment on the changes and discuss with others that change before it's solidified.
-![comments section](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/CommentsOnPR.png)
-Members can now approve your changes. 
-![where PRs go](https://github.com/A-Series-of-Dice-Based-Events/RiseOfTheRunelords/blob/master/Tutorial/WherePRsGo.png)
-Once you're added as a member, you can approve changes as well but all the changes are tracked so if we make a mistake, we can refer back to the old version. (just ask @mirkorainer on GitHub or in the [A Series of Dice-Based Events Discord](https://discord.gg/UQ8UD3H))
-
-## Recommended Tool
-http://monster.pf2.tools/ uses JSON files that can be easily imported/exported. This repository ideally will hold those files publicly sourced and created, as well as other tools/files. 
-Please do not submit PDF files or entire texts of the AP. Only submit modifications for the DC and NPCs/Monsters. Please also include a page number/map section label so GMs can cross-reference.
