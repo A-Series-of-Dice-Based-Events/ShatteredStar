@@ -20,7 +20,7 @@ _In addition to the adventure path itself I will be adding several “Additions�
 
 _This is a nice starting adventure that allows you to show the players Heidmarch Manor and get to know Sheila Heidmarch a bit.  Conversion is [here](https://docs.google.com/document/d/1DRiZan-QWQGb7WdOMTqbQJWOrSmkCXr9R0nS_78tnZU/edit)._
 
-_**Treasure:** +1 Horsechopper, Alchemist’s Fire (Lesser), Cat’s Eye Elixir_
+_**Treasure:** +1 Horsechopper, [Alchemist’s Fire](https://2e.aonprd.com/Equipment.aspx?ID=75) (Lesser), [Cat’s Eye Elixir](https://2e.aonprd.com/Equipment.aspx?ID=85)_
 
 
 #### Starting the Investigation
@@ -45,7 +45,7 @@ _**Treasure:** +1 Horsechopper, Alchemist’s Fire (Lesser), Cat’s Eye Elixir_
     *   DC20 Society or DC15 Lore (Magnimar) to know to leave a gift.
     *   Item worth 5sp gets Fenster to talk.
     *   10gp or Deception DC15 
-    *   For combat use Elite Dockhand (GMG 222) stats for Fenster.  When making a melee attack against Fenster or being struck by Fenster in melee make a DC5 flat check.  On a failure roll a d4 and the PC is exposed to the following disease:
+    *   For combat use Elite [Dockhand](https://2e.aonprd.com/NPCs.aspx?ID=913) for Fenster.  When making a melee attack against Fenster or being struck by Fenster in melee make a DC5 flat check.  On a failure roll a d4 and the PC is exposed to the following disease:
         *   1 - [Scarlet Fever](https://2e.aonprd.com/Diseases.aspx?ID=2)
         *   2 - [Tuberculosis](https://2e.aonprd.com/Diseases.aspx?ID=4)
         *   3 - [Malaria](https://2e.aonprd.com/Diseases.aspx?ID=5)
@@ -58,7 +58,7 @@ _**Treasure:** +1 Horsechopper, Alchemist’s Fire (Lesser), Cat’s Eye Elixir_
 
 _This adventure introduces players to both the Aspis Consortium and the Cult of Lissala.  The Aspis consortium is a nice foil to the Pathfinder Society and can be played up as an ongoing antagonist if you desire; perhaps even adding a party of Consortium agents that is also after the shards.  The Cult of Lissala plays into the Runelord theme, and ties into higher level Additions that I will be adding.  The conversion is [here](https://docs.google.com/document/d/1eCEfwgUUCgfIMWITvN3UN5do4OnK_KhnX2_d-5E53gc/edit?usp=sharing)._
 
-_**Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of Heal (level 1), Healer’s Tools (Expanded), 90 sp_
+_**Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of [Heal](https://2e.aonprd.com/Spells.aspx?ID=148) (level 1), [Healer’s Tools](https://2e.aonprd.com/Equipment.aspx?ID=25) (Expanded), 90 sp_
 
 
 ### Part Two: The Seeker’s Shard
@@ -69,7 +69,7 @@ _**Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of Heal (level 1), Healer
 *   Terisha Skiloni (Use [Bandit](https://2e.aonprd.com/NPCs.aspx?ID=887))
 *   Varisian Thugs (3) (Use [Mercenary](https://pf2.easytool.es/index.php?id=4933&name=mercenary))
 *   For 5 players add the elite adjustment to the thugs.
-*   **Treasure:** +1 Whip, Simple manacles
+*   **Treasure:** +1 Whip, Simple [manacles](https://2e.aonprd.com/Equipment.aspx?ID=32)
 
 
 #### Natalya’s Hideout
@@ -115,7 +115,7 @@ _**Treasure:** Brandy (20gp), Chalice (25gp), 2 Scroll of Heal (level 1), Healer
 
 _This module gets the players thinking about Lissala some more and is conveniently located on the way back from Riddleport.  It also forces one of the players to deal with the effects of the Shard of Pride for a while which can lead to some fun roleplaying opportunities.  I originally converted this for level 3 characters, but made a level 2 version so it could slot in here.  Conversion is [here](https://docs.google.com/document/d/1QdN5NT6hM1dCNeloxv4Plbpx7dMMcOvzNCeqLNQZke8/edit)._
 
-_**Treasure:** Scroll of Resist Energy, 24gp in gemstones, Onyx Panther, Acrimony Veil_
+_**Treasure:** Scroll of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256), 24gp in gemstones, [Onyx Panther](https://2e.aonprd.com/Equipment.aspx?ID=229), [Acrimony Veil](https://template.pf2.tools/v/9X4bLr44-acrimony-veil)_
 
 
 ### Part Three: In the Crow’s Nest
@@ -129,7 +129,7 @@ _**Treasure:** Scroll of Resist Energy, 24gp in gemstones, Onyx Panther, Acrimon
 #### The Crow
 
 *   **B1. Boat Dock**
-    *   Windows into **B19 **and **B23** are covered by Illusory Objects (Level 5, DC23)
+    *   Windows into **B19 **and **B23** are covered by [Illusory Objects](https://2e.aonprd.com/Spells.aspx?ID=160) (Level 5, DC23)
     *   DC20 Athletics to climb the shaft.  DC10 with ropes.
 *   **B3. Abandoned Privy**
     *   Inspecting the carcass exposes players to [Scarlet Fever](https://2e.aonprd.com/Diseases.aspx?ID=2).
@@ -246,18 +246,18 @@ _**Treasure:** [Barkskin Potion](https://2e.aonprd.com/Equipment.aspx?ID=184), [
     *   DC15 Ancient Thassilon or DC20 Society to recognize Alaznist.
     *   DC20 Arcana to recognize the statue as an observation device.
     *   [Abyssal Larva](https://monster.pf2.tools/v/6ctCoyRm)
-    *   **Treasure:** Cold Iron Ranseur.  DC18 Strength or DC20 Craft to remove it from the statue.  On a critical failure the statue’s hand is broken off.
+    *   **Treasure:** [Cold Iron Ranseur](https://2e.aonprd.com/Equipment.aspx?ID=375).  DC18 Strength or DC20 Craft to remove it from the statue.  On a critical failure the statue’s hand is broken off.
     *   For 5 players add Elite to the Abyssal Larva and make the Treasure a +1 Cold Iron Ranseur.
 *   **C2. Elemental Guards (Trivial 3)**
     *   DC21 Arcana to determine the nature of the circle.
     *   Small Fire Elementals (2) (Replace with single [Cinder Rat](https://2e.aonprd.com/Monsters.aspx?ID=187))
 *   **C3. The Suzerain (Low 3)**
     *   The Suzerain of Little Erebus (Use Elite [Imp](https://2e.aonprd.com/Monsters.aspx?ID=109))
-    *   [Lemures ](https://2e.aonprd.com/Monsters.aspx?ID=108)(2)
+    *   [Lemures](https://2e.aonprd.com/Monsters.aspx?ID=108) (2)
     *   For 5 players add an extra Lemure
-    *   **Treasure:** Create Undead Ritual Formulas (Zombie and Skeleton), 75 cp
+    *   **Treasure:** [Create Undead](https://2e.aonprd.com/Rituals.aspx?ID=10) Ritual Formulas (Zombie and Skeleton), 75 cp
 *   **C4. Ancient Distillery (Trivial 3)**
-    *   [Lemures ](https://2e.aonprd.com/Monsters.aspx?ID=108)(2)
+    *   [Lemures](https://2e.aonprd.com/Monsters.aspx?ID=108) (2)
     *   For 5 players add an extra Lemure
 *   **C5. Abandoned Storage**
     *   Clockwork Servant (Use [Animated Armor](https://2e.aonprd.com/Monsters.aspx?ID=19))
@@ -285,13 +285,13 @@ _**Treasure:** [Barkskin Potion](https://2e.aonprd.com/Equipment.aspx?ID=184), [
 *   **C10. Anteroom**
     *   **Treasure:** DC15 perception to find noqual key
 *   **C11. Lemure Prison (Trivial 3)**
-    *   Lemures (2)
+    *   [Lemures](https://2e.aonprd.com/Monsters.aspx?ID=108) (2)
 *   **C12. Lord Baz’s Room (Trivial 3)**
     *   Lord Baz (Use [Zebub](https://2e.aonprd.com/Monsters.aspx?ID=606))
     *   **Treasure:** Ancient Zither (40gp), Silver puzzle box (10gp) and 25gp worth of assorted coins
     *   For 5 players give Lord Baz the Elite adjustment and add 10gp of coins.
 *   **C13. Occupied Guardroom (Trivial)**
-    *   Nupperibos (3)
+    *   [Nupperibos](http://monster.pf2.tools/v/L1ovjXQ5) (3)
     *   For 5 players add 1 Nupperibo
 *   **C14. Stink’s Redoubt (Low 3)**
     *   [Stink](https://monster.pf2.tools/v/z6dVh46X)
@@ -319,14 +319,14 @@ _**Treasure:** [Barkskin Potion](https://2e.aonprd.com/Equipment.aspx?ID=184), [
     *   [Hell Hound](https://2e.aonprd.com/Monsters.aspx?ID=259)
     *   For 5 players the Hell Hound and any other creatures that come through the rift have the Elite adjustment.
 *   **C21. Warning Chamber**
-    *   The door has a [Lock (Simple)](https://2e.aonprd.com/Equipment.aspx?ID=30)
+    *   The door has a [Lock](https://2e.aonprd.com/Equipment.aspx?ID=30) (Simple)
 *   **C22. Specimen Lab (Low 3)**
-    *   [Fleshdregs ](https://monster.pf2.tools/v/MYcPW1ov)(3)
+    *   [Fleshdregs](https://monster.pf2.tools/v/MYcPW1ov) (3)
     *   For 5 players add 1 Fleshdreg
 *   **C23. Gatehouse**
     *   **Treasure:** Broken [Half Plate](https://2e.aonprd.com/Armor.aspx?ID=12)
 *   **C24. Southern Guardpost (Moderate 3)**
-    *   Aquatic Sinspawn (3) (Add aquatic trait and swim 25 feet to sinspawn)
+    *   Aquatic [Sinspawn](https://2e.aonprd.com/Monsters.aspx?ID=371) (3) (Add aquatic trait and swim 25 feet to sinspawn)
 
 
 ## Level 4
@@ -380,7 +380,7 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
     *   Fenster the Blight (Or someone else who makes sense)
     *   **Treasure:** [Wand of Charm (Level 1)](https://2e.aonprd.com/Equipment.aspx?ID=368)
 *   **D12. Prisoner Pens**
-    *   Each pen has a [Lock (Average)](https://2e.aonprd.com/Equipment.aspx?ID=30)
+    *   Each pen has a [Lock](https://2e.aonprd.com/Equipment.aspx?ID=30) (Average)
 *   **D13. Forgotten Corridor**
     *   DC15 Occult to recognize the shriezyx
     *   DC15 Society to recall info about the shriezyx

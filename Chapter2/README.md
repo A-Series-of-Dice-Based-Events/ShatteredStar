@@ -11,12 +11,12 @@ _In addition to the adventure path itself I will be adding several “Additions�
 
 _This Free RPG Day adventure ties into the events in Curse of the Lady’s Light and provides some foreshadowing of what is to come.  Plus it’s free! Conversion can be found [here](https://docs.google.com/document/d/1Z-U1DrCMCLsKjmWlkriYJcuj3titSwFBfogw0kKGXxU/edit#heading=h.9ikuooxnc0tu)._
 
-_**Treasure: **175gp, +1 dagger, +1 Disrupting scimitar, 4 Healing Potions (Lesser)_
+_**Treasure:** 175gp, +1 dagger, +1 Disrupting scimitar, 4 Healing Potions (Lesser)_
 
 
 ### Part One: The Journey South
 
-**Treasure: **Sheila gives the party a [Clear Spindle Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407).
+**Treasure:** Sheila gives the party a [Clear Spindle Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407).
 
 
 #### Addition 7: Curse of the Lady’s Light Web Supplement
@@ -35,7 +35,7 @@ _**Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?
 * DC25/30 Diplomacy to get Maroux to talk
 * DC15 Fort save to avoid becoming sickened from the food for an hour.
 * Maroux (Use [Demonologist](https://2e.aonprd.com/NPCs.aspx?ID=931))
-* **Treasure: **30gp and 4 rare codicies worth 5gp each.
+* **Treasure:** 30gp and 4 rare codicies worth 5gp each.
 
 
 #### B. Wreck of the Impdrake (Low 5)
@@ -43,7 +43,7 @@ _**Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?
 * Old Captain Linus Halfclasper (Use Elite Bloody [Skeletal Champion](https://2e.aonprd.com/Monsters.aspx?ID=373))
 * Human Skeletons (4) (Use Elite Bloody Screaming Skull [Skeleton Guard](https://2e.aonprd.com/Monsters.aspx?ID=372))
 * For 5 players add 2 more skeletons
-* **Treasure: **[Ghoul Hide](https://2e.aonprd.com/Equipment.aspx?ID=153), (for 5 players add [Fear Gem](https://2e.aonprd.com/Equipment.aspx?ID=211))
+* **Treasure:** [Ghoul Hide](https://2e.aonprd.com/Equipment.aspx?ID=153), (for 5 players add [Fear Gem](https://2e.aonprd.com/Equipment.aspx?ID=211))
 
 
 ## Level 6
@@ -75,12 +75,12 @@ _Note, the Troglodytes speak Draconic unless spoken to in another language they 
 * **D6. Shrine to Zevgavizeb (Moderate 6)**
     * [Uggilo](https://monster.pf2.tools/v/L8yoPdmY)
     * Elite [crocodile](https://2e.aonprd.com/Monsters.aspx?ID=84)
-    *  **Treasure: **[Demon Mask](https://2e.aonprd.com/Equipment.aspx?ID=430), unholy symbol of Zevgavizeb (15gp) + with a DC25 perception to find his cache 12x pearls (10gp each), [Rope of Climbing (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=743), [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91), [Mistform Elixir (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=96)
+    *  **Treasure:** [Demon Mask](https://2e.aonprd.com/Equipment.aspx?ID=430), unholy symbol of Zevgavizeb (15gp) + with a DC25 perception to find his cache 12x pearls (10gp each), [Rope of Climbing (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=743), [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91), [Mistform Elixir (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=96)
     * For 5 players add Troglodytes (2) and add 2 [Spellstrike ammunition (Level 1)](https://2e.aonprd.com/Equipment.aspx?ID=167)
 * **D7. Back Tunnel Entrance (Low 6)**
     * [Violet Fungi](https://2e.aonprd.com/Monsters.aspx?ID=853) (4)
     * For 5 players add 1 fungus.
-    * **Treasure: **Deadly Whips (See Violet fungi description).
+    * **Treasure:** Deadly Whips (See Violet fungi description).
 * **Treating the sick**
     * There are 14 troglodytes that are sick with filth fever.  Without treatment 4 will survive, while the other 10 will die.
     * If the characters decide to treat the ill troglodytes, assume that 4 will perish each day.  Have each character who treats the ill roll a DC19 medicine check (feel free to give bonuses for relevant skill feats such as ward medic)
@@ -97,7 +97,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 
 * Gegganallag (Use [Pyrohydra](http://monster.pf2.tools/v/HwBDqSM2-pyrohydra))
 * For 5 players increase the hydra’s hp by 20 and begin with 1 extra head.
-* **Treasure: **[Ventriloquist’s Ring](https://2e.aonprd.com/Equipment.aspx?ID=468), [Wand of Noisome Acid (level 2)](https://2e.aonprd.com/Equipment.aspx?ID=794), jewelry worth 30gp, 240sp, 123gp, 9pp, 3x [acid flask (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=74), 3x [frost vials (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=77)
+* **Treasure:** [Ventriloquist’s Ring](https://2e.aonprd.com/Equipment.aspx?ID=468), [Wand of Noisome Acid (level 2)](https://2e.aonprd.com/Equipment.aspx?ID=794), jewelry worth 30gp, 240sp, 123gp, 9pp, 3x [acid flask (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=74), 3x [frost vials (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=77)
 
 
 #### F. Boggard Village
@@ -109,13 +109,13 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * For 5 players add 1 bogwid.
 * **F4. Chieftain’s Hut (Low 6)**
     * Advanced Boggards (4) (Use Elite [Boggard Warrior](https://2e.aonprd.com/Monsters.aspx?ID=55))
-    * **Treasure: **75gp, 6x chrysoberyls (10gp each)
+    * **Treasure:** 75gp, 6x chrysoberyls (10gp each)
 * **F5. The Breeding Shallows (Trivial 6)**
     * Bogwiggles (4) (Use [Giant Frog](https://2e.aonprd.com/Monsters.aspx?ID=675))
         * Add Terrifying Croak at DC16.
 * **F6. Brood Mother’s Hut (Low 6)**
     * [Mama Beballa](https://monster.pf2.tools/v/O4Cjd7rB)
-    * **Treasure: **+1 Composite Longbow, [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91)
+    * **Treasure:** +1 Composite Longbow, [Elixir of Life (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=91)
     * For 5 players give Mama Beballa the Elite adjustment and add [Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=186) to the treasure.
 * **F7. Filth Farm**
     * DC18 Fortitude to avoid becoming sickened 1.  Anyone with hp damage is exposed to [Filth Fever](https://2e.aonprd.com/Monsters.aspx?ID=682).
@@ -128,7 +128,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * Boggard (4)
 * **G2. The Sulking Chieftain (Trivial 6)**
     * [Daghop](https://monster.pf2.tools/v/oQpyLZV9)
-    * **Treasure: **+1 [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) Striking Mace
+    * **Treasure:** +1 [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) Striking Mace
     * For 5 players add 2 [Giant Frog](https://2e.aonprd.com/Monsters.aspx?ID=675) and a [Grim Trophy](https://2e.aonprd.com/Equipment.aspx?ID=216)
 
 
@@ -161,7 +161,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **K1. The False Sepulcher (Extreme? 7)**
     * DC20 Ancient Thassilon Lore to recognize Sorshen.
     * DC30 Craft to identify the body as a [clone](https://2e.aonprd.com/Rituals.aspx?ID=30). Arcana, Occult, or Medicine can give some information as well.  DC25 Ancient Thassilon Lore to remember that Sorshen was suspected of keeping many clone bodies to prevent her death.
-    * **Treasure: **Jewelry worth 200 gp.
+    * **Treasure:** Jewelry worth 200 gp.
     * **Hazard: **DC45, Level 10 [Phantasmal Killer](https://2e.aonprd.com/Spells.aspx?ID=219) on someone who disturbs the body.  If this character dies they are immediately resurrected into the body of Sorshen as if by a successful resurrection ritual.
     * _Since a player is almost certainly going to fail the check for Phantasmal Killer you should probably just run this in a cinematic way.  The target sees Sorshen grow huge and crush him to death, while the rest of the party sees the character twitch and gasp a bit before falling dead. If you can manage to do this at the end of a session this is a really great “WTF just happened?” moment to leave your players with._
     * A character who becomes Sorshen’s clone rises as a Human with True Azlanti heritage.  A True Azlanti gains a boost to all 6 ability scores instead of just 2, but does not gain any other heritage benefits.  Any ancestry feats that the character had that are dependent on the character’s physical body can be retrained once the character understands this new body they have been put in.
@@ -180,27 +180,27 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * The entire room is bathed in dim light.
     * [Glass Golem](https://2e.aonprd.com/Monsters.aspx?ID=685)
     * For 5 players give the Glass Golem the Elite adjustment.
-    * **Treasure: **10gp/player of high quality glass can be scavenged weighing 1 bulk.
+    * **Treasure:** 10gp/player of high quality glass can be scavenged weighing 1 bulk.
 * **K7. Maidens’ Graves**
     * DC15 Society to identify the bodies.
-    * **Treasure: **Gray Maiden Plate (2) (Use stats for [Hellknight Plate](https://2e.aonprd.com/Armor.aspx?ID=14))
+    * **Treasure:** Gray Maiden Plate (2) (Use stats for [Hellknight Plate](https://2e.aonprd.com/Armor.aspx?ID=14))
 * **K8. Lascivious Mural**
     * DC20 Perception to notice the signature.
 * **K9. A Spurned Constort (Low 7)**
     * [Lock (average)](https://2e.aonprd.com/Equipment.aspx?ID=30) on the gate.
     * [Gnaeus Gnaru](https://monster.pf2.tools/v/RsoHot1h-gnaeus-gnaru)
-    * **Treasure: **+1 Striking Wounding Rapier
+    * **Treasure:** +1 Striking Wounding Rapier
     * For 5 players Gnaeus is also equipped with 2 [Healing Potion (Moderate)](http://2e.aonprd.com/Equipment.aspx?ID=186) and Can use Battle Medicine on himself 1/day.  Add 1 Healing Potion (Moderate) to the treasure.
 * **K10. Pillared Hall (Low 7)**
     * [Marble Sentinel](https://monster.pf2.tools/v/5v9Qh9Hp-marble-sentinel) (3)
-    * **Treasure: **A single wand of [Slow](https://2e.aonprd.com/Spells.aspx?ID=289) (3rd) can be scavenged from the sentinels.
+    * **Treasure:** A single wand of [Slow](https://2e.aonprd.com/Spells.aspx?ID=289) (3rd) can be scavenged from the sentinels.
     * For 5 players add 1 sentinel and a [Basilisk’s Eye](https://2e.aonprd.com/Equipment.aspx?ID=708).
 * **K11. Pit Trap (Trivial 7)**
     * [Spiky Pit](https://pf2.easytool.es/index.php?id=7480&name=spiky_pit)
     * _Note, this trap is really boring.  I recommend swapping it out with [Poisoned Dart Gallery](http://2e.aonprd.com/Hazards.aspx?ID=25).  This increases the threat level to Low 7._
 * **K12. Battle Site (Low 7)**
     * [Incubus](https://monster.pf2.tools/v/ylmtFWZ5-incubus) (2)
-    * **Treasure: **+1 Striking Scimitar (2)
+    * **Treasure:** +1 Striking Scimitar (2)
     * For 5 players give the Incubi the elite adjustment
 * **K13. Chamber of the Gray Flame (Trivial 7)**
     * Damp floor requires a DC15 Acrobatics check for each move action
@@ -211,10 +211,10 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * For 5 players add 1 Cacodaemon
 * **K14. Shrine of Supplication**
     * DC20 Perception to notice the wear
-    * **Treasure: **20gp of gold leaf.
+    * **Treasure:** 20gp of gold leaf.
 * **K15. Hall of Bedchambers (Trivial 7)**
     * **Hazard: **Sorshen’s Disdain (Use [Pharaoh’s Ward](https://2e.aonprd.com/Hazards.aspx?ID=9) with Stealth DC reduced to 20)
-    * **Treasure: **[Bracers of Armor I](https://2e.aonprd.com/Equipment.aspx?ID=416)
+    * **Treasure:** [Bracers of Armor I](https://2e.aonprd.com/Equipment.aspx?ID=416)
     * _This is also a good place to add some extra treasure if your party missed some._
 * **K17. Preparation Room**
     * DC23 Arcana or Occult to recognize the [suggestion](https://2e.aonprd.com/Spells.aspx?ID=315) spell.  A critical success conveys understanding of how to use it.
@@ -227,7 +227,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** [Elixir of Life (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=91),[Dragon’s Blood Potion (Young)](https://2e.aonprd.com/Equipment.aspx?ID=185), [Oil of Revelation](https://2e.aonprd.com/Equipment.aspx?ID=717), [Oil of Mending](https://2e.aonprd.com/Equipment.aspx?ID=178)
     * For 5 players add 1 Gray Ooze and [1 Healing Potion (Moderate)](https://2e.aonprd.com/Equipment.aspx?ID=186)
 * **K20. Enchantment Lab**
-    * **Treasure: **Scrolls of [Confusion](https://2e.aonprd.com/Spells.aspx?ID=48), [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=104), and [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341) and _Dreams and Desires_ a [Scholarly Journal (Compendium)](https://2e.aonprd.com/Equipment.aspx?ID=64) about Enchantment magic.
+    * **Treasure:** Scrolls of [Confusion](https://2e.aonprd.com/Spells.aspx?ID=48), [Enthrall](https://2e.aonprd.com/Spells.aspx?ID=104), and [Touch of Idiocy](https://2e.aonprd.com/Spells.aspx?ID=341) and _Dreams and Desires_ a [Scholarly Journal (Compendium)](https://2e.aonprd.com/Equipment.aspx?ID=64) about Enchantment magic.
 * **K21. Conjuration Lab (Severe 7)**
     * _There isn’t really any good replacement for the book in this room, so I’ve replaced it with another valuable item. You should add a crown to the description of the room._
     * [Fiendish Seugathi](https://monster.pf2.tools/v/HQ4Lsozh)
@@ -255,7 +255,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **L4. Mochtau's Hall (Moderate 8)**
     * Mochtau (Use [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221))
     * Giant Monitor Lizard (2) (Use Elite [Giant Frilled Lizard](https://2e.aonprd.com/Monsters.aspx?ID=290))
-    * **Treasure: **20 tourmalines worth 10gp each.  Platinum Plate worth 75gp or 200gp to a collector. +1 Striking Greatclub
+    * **Treasure:** 20 tourmalines worth 10gp each.  Platinum Plate worth 75gp or 200gp to a collector. +1 Striking Greatclub
     * For 5 players add 1 lizard and 8 tourmalines.
 * **L5. Skaveling Niches (Low 8)**
     * [Skavelings](http://2e.aonprd.com/Monsters.aspx?ID=803) (3)
@@ -359,9 +359,9 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 
 * **Magnimarian Quests**
     * **Strange Herbs from the Swamp**
-        * **Treasure: **200 gp
+        * **Treasure:** 200 gp
     * **Seeking Salacious Relics**
-        * **Treasure: **25 gp/item
+        * **Treasure:** 25 gp/item
 
 
 ## Shards
