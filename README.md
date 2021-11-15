@@ -8,7 +8,9 @@ The README.md files can have simple breakdowns of modified DCs for various tasks
 Since Pathfinder 2 is much more friendly to high level play this adventure is currently being converted to cover the full 1 - 20 leveling range. Since some may wish to eventually convert this adventure using the default leveling range the conversion status is broken into two parts with separate status indicators for both the original and expanded level range.
 
 :white_large_square: - Conversion is partially or wholely incomplete.
+
 :white_check_mark: - Conversion is "playably" complete. All (or at least the majority) of monsters and important items have been converted to PF2 equivalents. Any unique monsters or items are available in a publicly accessible format. The conversion may need an editing pass, may be missing some less important features (xp tables, treasure summaries, basic DCs etc.) and may link to outside websites or repositories for unique monsters, items, etc. Total XP/level and treasure/level may not be balanced.
+
 :ballot_box_with_check: - Conversion is complete. The conversion has received an editing pass. All monsters and items are either linked on [Archives of Nethys](https://2e.aonprd.com/) or are stored in this repository (as a json, image, etc.). "Nice to have" features like XP tables and treasure summaries are included. Total treasure and XP rewards should be similar to published adventures.
 
 | Title                                                        | Original<br />Level | Conversion<br />Status | Expanded<br />Level | Expanded<br />Status |

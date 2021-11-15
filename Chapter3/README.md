@@ -13,7 +13,7 @@ _In addition to the adventure path itself I will be adding several “Additions�
 
 _After being away from Magnimar for so long it’s nice to spend some time back in the city. This module also introduces the Golemworks as a major force in magnimar and continues the theme of the Aspis Consortium being a recurring antagonist of the Pathfinder Society. Conversion is [here](https://docs.google.com/document/d/1lzbnVaNNBnMU1l2Z9plNeCvAXxgHs0ZoD6uGtqMPCjs)._
 
-_**Treasure:** [Sturdy Shield (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=327), Trusty Buddy (Adamantine [Levered Crowbar](https://2e.aonprd.com/Equipment.aspx?ID=18)), +1 Crossbow, +1 Staff, books worth 300 sp, wand of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256) (Level 2), +1 striking composite shortbow (20 arrows), +1 rapier, [invisibility potion](https://2e.aonprd.com/Equipment.aspx?ID=187), [giant wasp venom](https://2e.aonprd.com/Equipment.aspx?ID=115), [lesser darkvision elixir](https://2e.aonprd.com/Equipment.aspx?ID=89), Statue of Lissala worth 250 sp, 4 [Lesser Elixer of Life](http://2e.aonprd.com/Equipment.aspx?ID=91), [Slippers of Spider Climbing](http://2e.aonprd.com/Equipment.aspx?ID=465),  (+1 sickle, [moderate antidote](https://2e.aonprd.com/Equipment.aspx?ID=80), [moderate antiplague](https://2e.aonprd.com/Equipment.aspx?ID=81)) * 2, +1 crossbow, +1 resilient explorer's clothing, [moderate healing potion](https://2e.aonprd.com/Equipment.aspx?ID=186), [staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351), [Dusty Rose Prism Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), 100gp_
+_**Treasure: **[Sturdy Shield (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=327), Trusty Buddy (Adamantine [Levered Crowbar](https://2e.aonprd.com/Equipment.aspx?ID=18)), +1 Crossbow, +1 Staff, books worth 300 sp, wand of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256) (Level 2), +1 striking composite shortbow (20 arrows), +1 rapier, [invisibility potion](https://2e.aonprd.com/Equipment.aspx?ID=187), [giant wasp venom](https://2e.aonprd.com/Equipment.aspx?ID=115), [lesser darkvision elixir](https://2e.aonprd.com/Equipment.aspx?ID=89), Statue of Lissala worth 250 sp, 4 [Lesser Elixer of Life](http://2e.aonprd.com/Equipment.aspx?ID=91), [Slippers of Spider Climbing](http://2e.aonprd.com/Equipment.aspx?ID=465),  (+1 sickle, [moderate antidote](https://2e.aonprd.com/Equipment.aspx?ID=80), [moderate antiplague](https://2e.aonprd.com/Equipment.aspx?ID=81)) * 2, +1 crossbow, +1 resilient explorer's clothing, [moderate healing potion](https://2e.aonprd.com/Equipment.aspx?ID=186), [staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351), [Dusty Rose Prism Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), 100gp_
 
 
 ### Part One: Up a River
@@ -32,7 +32,7 @@ _**Treasure:** +1 Morningstar (4), +1 Spear, [Potion of Moderate Resistance](htt
 
 _This is the first in a 5 part series of modules in which the Cult of Lissala is the major antagonist, and which ends with the defeat of the Runelord Krune. Conversion is [here](https://docs.google.com/document/d/1T4M86iOZGcHzhfKs8w_Djob7wRgLuUuDhN9s3ug9Y9s)._
 
-_**Treasure:** [Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance), +1 Striking Rapier, +1 Striking Shortbow, [Elemental Wayfinder (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=470), [Storm Arrow](http://2e.aonprd.com/Equipment.aspx?ID=169) (2), +1 Resilient Explorer’s Clothing (2), [Slime Whip](http://2e.aonprd.com/Equipment.aspx?ID=792), [Phylactery of Faithfulness](http://2e.aonprd.com/Equipment.aspx?ID=452) (Lissala), Scroll of [Vampiric Maiden](http://2e.aonprd.com/Spells.aspx?ID=725) (4th), Scroll of [Enervation](http://2e.aonprd.com/Spells.aspx?ID=687) (4th), 200gp_
+_**Treasure: **[Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance), +1 Striking Rapier, +1 Striking Shortbow, [Elemental Wayfinder (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=470), [Storm Arrow](http://2e.aonprd.com/Equipment.aspx?ID=169) (2), +1 Resilient Explorer’s Clothing (2), [Slime Whip](http://2e.aonprd.com/Equipment.aspx?ID=792), [Phylactery of Faithfulness](http://2e.aonprd.com/Equipment.aspx?ID=452) (Lissala), Scroll of [Vampiric Maiden](http://2e.aonprd.com/Spells.aspx?ID=725) (4th), Scroll of [Enervation](http://2e.aonprd.com/Spells.aspx?ID=687) (4th), 200gp_
 
 
 #### Clash with the Sorebacks (Low 9)
@@ -66,7 +66,7 @@ _The original creatures in this encounter are leveled so low it didn’t really 
 
 _Part 2 of the Cult of Lissala arc is conveniently located right in Kaer Maga.  Since we aren’t in Magnimar, Ollysta Zadrian can show up in Kaer Maga to give the mission briefing, and can be the PCs contact for future missions in this arc. Conversion is [here](https://docs.google.com/document/d/1-G2Pj74WcHIrT3uMWAotHE9UgICjkf_l5Wv5dH_q4pA)._
 
-_**Treasure:** +2 Striking handwraps of mighty blows, +1 studded leather armor, +1 shortsword (3), [elixir of life (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=91), [mummified bat](http://2e.aonprd.com/Equipment.aspx?ID=227), 150 gp, +1 Striking composite shortbow, +1 striking dagger, +1 leather armor, [shadow essence](https://2e.aonprd.com/Equipment.aspx?ID=127) (2), 300gp_
+_**Treasure: **+2 Striking handwraps of mighty blows, +1 studded leather armor, +1 shortsword (3), [elixir of life (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=91), [mummified bat](http://2e.aonprd.com/Equipment.aspx?ID=227), 150 gp, +1 Striking composite shortbow, +1 striking dagger, +1 leather armor, [shadow essence](https://2e.aonprd.com/Equipment.aspx?ID=127) (2), 300gp_
 
 
 #### Balconies of Bis
@@ -151,7 +151,7 @@ _If you’re using the additions you should have the players do addition 12 befo
 
 _Part 3 of the Cult of Lissala story arc has the players traveling to the Wyvern Mountains west of Kaer Maga to seek out Refuge Tokens that can teleport one to the Runelord Krune's resting place. Conversion is [here](https://docs.google.com/document/d/1-DN9iSvXEpJUhuDpSh_xnMWLHIxA9BT3b20HQ0tij2I)._
 
-_**Treasure:** +1 Striking [Holy](http://2e.aonprd.com/Equipment.aspx?ID=299) Mace, 500gp in gemstones, +1 Striking [Conducting](http://2e.aonprd.com/Equipment.aspx?ID=919) Whip, [Quill of Passage](http://2e.aonprd.com/Equipment.aspx?ID=881), +1 Resilient Full Plate (see [graveknight’s curse](http://2e.aonprd.com/Monsters.aspx?ID=244)), +2 Striking [Frost](http://2e.aonprd.com/Equipment.aspx?ID=296) Greatsword, Greater [Staff of Conjuration](http://2e.aonprd.com/Equipment.aspx?ID=352), Greater [Choker of Elocution](http://2e.aonprd.com/Equipment.aspx?ID=422) (Thassilonian, Azlanti, and Aklo) emblazoned with a sihedron rune, +1 Striking longspear (4), Greater [Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186), [Potion of Flying](http://2e.aonprd.com/Equipment.aspx?ID=189), [Planar Binding](https://2e.aonprd.com/Rituals.aspx?ID=17) ritual_
+_**Treasure: **+1 Striking [Holy](http://2e.aonprd.com/Equipment.aspx?ID=299) Mace, 500gp in gemstones, +1 Striking [Conducting](http://2e.aonprd.com/Equipment.aspx?ID=919) Whip, [Quill of Passage](http://2e.aonprd.com/Equipment.aspx?ID=881), +1 Resilient Full Plate (see [graveknight’s curse](http://2e.aonprd.com/Monsters.aspx?ID=244)), +2 Striking [Frost](http://2e.aonprd.com/Equipment.aspx?ID=296) Greatsword, Greater [Staff of Conjuration](http://2e.aonprd.com/Equipment.aspx?ID=352), Greater [Choker of Elocution](http://2e.aonprd.com/Equipment.aspx?ID=422) (Thassilonian, Azlanti, and Aklo) emblazoned with a sihedron rune, +1 Striking longspear (4), Greater [Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186), [Potion of Flying](http://2e.aonprd.com/Equipment.aspx?ID=189), [Planar Binding](https://2e.aonprd.com/Rituals.aspx?ID=17) ritual_
 
 
 ### Part Three: The Undercity
@@ -293,7 +293,7 @@ _**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com
             * **Success** The pale strangers pause their attack and allow the party to plead their case. Future checks gain a +4 circumstance bonus.
             * **Critical Failure **The pale strangers are convinced the party are rustlers and can no longer be convinced otherwise
             * Attacking the pale strangers after a success or critical success automatically results in the critical failure condition. 
-    * **Treasure:** +1 resilient leather armor (2), +1 striking dueling pistol (4) (strange design, sell value of 250gp each)
+    * **Treasure: **+1 resilient leather armor (2), +1 striking dueling pistol (4) (strange design, sell value of 250gp each)
     * For 5 players give the pale strangers the elite adjustment.
 * **C5. Carriage House**
     * The door is locked with a [Good Lock](https://2e.aonprd.com/Equipment.aspx?ID=30) from outside.
@@ -348,7 +348,7 @@ _**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com
         * Gain the negative healing ability and the undead trait
         * If killed, automatically rise as a zombie or similar undead.
         * Become doomed 1. This can not be removed while still cursed.
-    * **Treasure:** [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
+    * **Treasure: **[Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
 * **Caulborn Redux (Moderate 12)**
     * [Advanced Caulborn](https://monster.pf2.tools/v/lQ8vRt03) (2)
     * [Chrestomath](https://monster.pf2.tools/v/OSy6OrTP)
@@ -359,9 +359,9 @@ _**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com
 
 * **Magnimarian Quests**
     * **Industrial Espionage**
-        * **Treasure:** 500 gp
+        * **Treasure: **500 gp
     * **Bounty Hunting in the City of Strangers**
-        * **Treasure:** [Purple Worm Venom](https://2e.aonprd.com/Equipment.aspx?ID=126) (5)
+        * **Treasure: **[Purple Worm Venom](https://2e.aonprd.com/Equipment.aspx?ID=126) (5)
 * **Key NPC Quests**
     * **Abra Lopati**
         * **Treasure:** [Greater Halflight Charm](https://template.pf2.tools/v/HvFd6qbS-greater-halflight-charm)
