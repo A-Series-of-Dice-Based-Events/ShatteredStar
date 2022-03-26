@@ -104,8 +104,59 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
   * [Sufestra](https://monster.pf2.tools/v/pHSQYDxv)
   * Advanced [Hill Giants](https://2e.aonprd.com/Monsters.aspx?ID=220) (Level 10) (1)
   * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (2)
-  * **Treasure:** [Ring of Lies](https://2e.aonprd.com/Equipment.aspx?ID=456), +2 Greater Striking Shortsword, +2 Resilient Chain Shirt, Oil of [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311) (2), Doomsday Key, Scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105), 500gp in assorted jewelry, +2 striking greatclub (1/hill giant), +1 hide armor (1/hill giant), +1 striking scythe (1/redcap)
+  * **Treasure:** [Ring of Lies](https://2e.aonprd.com/Equipment.aspx?ID=456), +2 Greater Striking Shortsword, +2 Greater Resilient Chainmail, Oil of [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311) (2), Doomsday Key, Scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105), 500gp in assorted jewelry, +2 striking greatclub (1/hill giant), +1 hide armor (1/hill giant), +1 striking scythe (1/redcap)
   * For 5 players add 1 more Hill Giant and 1 more Redcap
+
+### Part Three: Down to Doomsday
+
+_Note: Since some groups may or may not have Koriah with them the difficulty of these areas does not take her into account._
+
+#### Dungeon Level 1
+
+* **B1. Spirits Cellar (Low 14)**
+  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) (6)
+  * The broken equipment in this room is a barrier to both movement and attacks. Treat the entire room as difficult terrain, and creatures have cover from anything not adjacent to themselves.
+  * The Cultists will flee to **B4** if half of their number are defeated.
+  * **Treasure:** +2 striking composite shortbow (1/cultist), +1 striking shortsword (1/cultist), [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) (3/cultist), 100gp of assorted treasure/cultist
+  * For 5 players add 2 more cultists
+
+* **B2. Brewery (Trivial 14)**
+  * Elite [Clockwork Assassin](https://2e.aonprd.com/Monsters.aspx?ID=1004)
+  * **Treasure:** A +2 Greater Striking Rapier and [Ablative Armor Plating](https://2e.aonprd.com/Equipment.aspx?ID=1102) can be salvaged from the assassin with a DC35 crafting check. It the rapier has the broken condition on a success, but not on a critical success. On a critical failure the armor plating is lost.
+  * If lured to **B1** the Clockwork Assassin treats every creature as hostile. The cultists are aware of its capabilities and will try to stay away from it so that it will attack the pathfinders instead. B1 and B2 together are a Moderate encounter.
+
+* **B4. Litany Room**
+  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) (6)
+  * **Treasure:** +2 striking composite shortbow (1/cultist), +1 striking shortsword (1/cultist), [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) (3/cultist), 100gp of assorted treasure/cultist
+  * For 5 players add 2 more cultists
+
+* **B5. Observation Room**
+  * DC20 Religion to recognize the globe as a depection of Groetus. A critical success gives more information.
+
+* **B6. Ice Room (Low 14)**
+  * Advanced [Ice Golems](https://2e.aonprd.com/Monsters.aspx?ID=683) (Level 10)
+  * The door to this room requires a DC30 Athletics check to open. On a success the door opens, but the character must immediately roll for the slippery ground. On a critical success the character opens the door without issue.
+  * The extreme cold deals 5d6 cold damage (basic fortitude save) each round.
+  * The ground is slippery; after each stride make a DC30 acrobatics check, moving at half speed or less gives a +4 to this roll
+    * **Critical Failure** Fall prone and take 2d6 bludgeoning damage, slide an additional 1d4 * 5 feet in the direction you were moving.
+    * **Failure** Fall prone
+    * **Success** You are unsteady, take a -2 penalty to all attack rolls and skill checks that require movement until the start of your next turn.
+    * **Crutical Success** No effect
+  * For 5 players advance the Ice Golems to level 11.
+
+* **B9. Workshop**
+  * A DC30 Arcana check reveals the purpose of this room.
+  * **Treasure:** [Ring of Maniacal Devices](https://2e.aonprd.com/Equipment.aspx?ID=457), [Traveler's Any-Tool](https://2e.aonprd.com/Equipment.aspx?ID=268), Golem crafting notes worth 1000gp.
+
+* **B10. Common Room (Trivial 14)**
+  * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) (4)
+  * **Treasure:** +2 striking composite shortbow (1/cultist), +1 striking shortsword (1/cultist), [Storm Arrows](https://2e.aonprd.com/Equipment.aspx?ID=169) (3/cultist), 100gp of assorted treasure/cultist
+  * For 5 players add 1 more cultist
+
+* **B12. Cloakroom (Low 14)**
+  * Ikoradmus (Advanced [Taiga Giant](https://2e.aonprd.com/Monsters.aspx?ID=680) (Level 15))
+  * **Treasure:** +2 Greater Striking Longspear, Fine red cloak worth 100gp, [Medusa Armor](https://2e.aonprd.com/Equipment.aspx?ID=603), 1000gp in various treasure. If the curese is removed from the Medusa Armor it becomes standard +2 Greater resilient adamantine scale mail.
+  * For 5 players advance Ikoradmus to level 16 and add a [Viper's Fang](https://2e.aonprd.com/Equipment.aspx?ID=238) talisman
 
 ## Side Quests
 
