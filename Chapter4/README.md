@@ -8,7 +8,6 @@ _Note, since the characters are now several levels above where they were in the 
 
 ## Level 13
 
-
 #### Addition 14: PFS 4-26 The Waking Rune
 
 _In this final addition we get to the conclusion to the Cult of Lissala story arc. The pathfinders take on Krune, the Runelord of Sloth to prevent him from returning to Varisia. Conversion is [here](https://docs.google.com/document/d/1AN0HfrXwfCqnSXyaoiXWPkPHxTKhg6iNkJNTtSzRTv8/)._
@@ -107,11 +106,15 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
   * **Treasure:** [Ring of Lies](https://2e.aonprd.com/Equipment.aspx?ID=456), +2 Greater Striking Shortsword, +2 Greater Resilient Chainmail, Oil of [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311) (2), Doomsday Key, Scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105), 500gp in assorted jewelry, +2 striking greatclub (1/hill giant), +1 hide armor (1/hill giant), +1 striking scythe (1/redcap)
   * For 5 players add 1 more Hill Giant and 1 more Redcap
 
+## Level 14
+
 ### Part Three: Down to Doomsday
 
 _Note: Since some groups may or may not have Koriah with them the difficulty of these areas does not take her into account._
 
 #### Dungeon Level 1
+
+_Since each of the encounters in this area has the potential to spill into each other I made the threat levels of each room low. For the most part the creatures on this floor are intelligent and should try to gang up on the party and harrass them if they try to rest here._
 
 * **B1. Spirits Cellar (Low 14)**
   * [Pallid Path Cultists](https://monster.pf2.tools/v/Pr2dQ6tc-pallid-path-cultist) (6)
@@ -122,7 +125,7 @@ _Note: Since some groups may or may not have Koriah with them the difficulty of 
 
 * **B2. Brewery (Trivial 14)**
   * Elite [Clockwork Assassin](https://2e.aonprd.com/Monsters.aspx?ID=1004)
-  * **Treasure:** A +2 Greater Striking Rapier and [Ablative Armor Plating](https://2e.aonprd.com/Equipment.aspx?ID=1102) can be salvaged from the assassin with a DC35 crafting check. It the rapier has the broken condition on a success, but not on a critical success. On a critical failure the armor plating is lost.
+  * **Treasure:** A +2 Greater Striking Rapier and Major [Ablative Armor Plating](https://2e.aonprd.com/Equipment.aspx?ID=1102) can be salvaged from the assassin with a DC35 crafting check. It the rapier has the broken condition on a success, but not on a critical success. On a critical failure the armor plating is lost.
   * If lured to **B1** the Clockwork Assassin treats every creature as hostile. The cultists are aware of its capabilities and will try to stay away from it so that it will attack the pathfinders instead. B1 and B2 together are a Moderate encounter.
 
 * **B4. Litany Room**
@@ -155,8 +158,48 @@ _Note: Since some groups may or may not have Koriah with them the difficulty of 
 
 * **B12. Cloakroom (Low 14)**
   * Ikoradmus (Advanced [Taiga Giant](https://2e.aonprd.com/Monsters.aspx?ID=680) (Level 15))
-  * **Treasure:** +2 Greater Striking Longspear, Fine red cloak worth 100gp, [Medusa Armor](https://2e.aonprd.com/Equipment.aspx?ID=603), 1000gp in various treasure. If the curese is removed from the Medusa Armor it becomes standard +2 Greater resilient adamantine scale mail.
+  * **Treasure:** +2 Greater Striking Longspear, Fine red cloak worth 100gp, [Medusa Armor](https://2e.aonprd.com/Equipment.aspx?ID=603), [Brilliant Rapier](https://2e.aonprd.com/Equipment.aspx?ID=1237), 1000gp in various treasure.
   * For 5 players advance Ikoradmus to level 16 and add a [Viper's Fang](https://2e.aonprd.com/Equipment.aspx?ID=238) talisman
+
+#### Dungeon Level 2
+* **C2. Temple of the Windsong (Low 14)**
+  * Elite [Chernobue](https://2e.aonprd.com/Monsters.aspx?ID=775) (2)
+  * **Treasure:** A DC35 perception check reveals the cache. Reduce this to DC25 if Casamir told the party about it or Koriah is with them. The cache contains 1 wand of [Restoration](https://2e.aonprd.com/Spells.aspx?ID=258) (Level 6), 1 scroll of [Wind Walk](https://2e.aonprd.com/Spells.aspx?ID=376), and 1 scroll of [Remove Curse](https://2e.aonprd.com/Spells.aspx?ID=250) (Level 7)
+  * For 5 players add a [Chernobue](https://2e.aonprd.com/Monsters.aspx?ID=775) (regular) and 1 [Panacea](https://2e.aonprd.com/Equipment.aspx?ID=188)
+  * _A note on Chernobues; any party that is strong enough to face a Chernobue almost certainly has 1 or more party members with a light cantrip cast at 5th level or higher making the Chernobue's darkness spell useless and dealing extra damage to it each round. This seems dumb, so I recommend having some house rules for at least how this encounter works, if not for how the darkness spell works in general. I intentionally put the Brilliant Rapier in **B12** so that a party would have something other than a light spell available to counteract darkness._
+
+* **C3. Temple of Sunset**
+  * Invaders must make a DC35 will save to enter this room. A failure prevents an invader from entering for an hour while a critical failure prevents them from entering until the following day.
+  * Double any non magical healing in this room.
+
+* **C4. Acolytes' Lodgings (Trivial 14)**
+  * Elite [Wearbears](https://2e.aonprd.com/Monsters.aspx?ID=412) (4)
+  * Advanced [Shoggti](https://2e.aonprd.com/Monsters.aspx?ID=773) (Level 11) (2)
+  * **Treasure:** 7 [Explosive Bolts](https://2e.aonprd.com/Equipment.aspx?ID=162)
+  * For 5 players add 2 more Wearbears, advance the Shoggti to level 12, and 3 more Explosive Bolts
+
+* **C5. Green Mouse Fountain (Moderate 14)**
+  * **Hazard:** [Summoning Rune](https://2e.aonprd.com/Hazards.aspx?ID=20) (Level 16) that summons an [Elemental Vessel, Water](https://2e.aonprd.com/Monsters.aspx?ID=1009)
+  * If the summoning rune is tripped the area begins filling with water. After 2 rounds the entire area is difficult terrain.
+
+* **C6. Prophecy Room**
+  * **Treasure:** A DC35 Religion check can determine the function of the parchments. Once per day the parchment can be used to cast [Read Omens](https://2e.aonprd.com/Spells.aspx?ID=247).
+
+* **C7. Shrine of Empty Places (Low 14)**
+  * Elite [Augnagar](https://2e.aonprd.com/Monsters.aspx?ID=776)
+  * *Note: When combined with **C8** this is a severe encounter*
+
+* **C8. Hall of Ruin (Low 14)**
+  * Elite [Augnagar](https://2e.aonprd.com/Monsters.aspx?ID=776)
+  * *Note: When combined with **C7** this is a severe encounter*
+
+* **C9. Apothecarium**
+  * **Treasure:** [Philosopher's Stone](https://2e.aonprd.com/Equipment.aspx?ID=133), Greater [Alchemist Goggles](https://2e.aonprd.com/Equipment.aspx?ID=408), formulas for Greater [Stone Body Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=475) and [Lifeblight Residue](https://2e.aonprd.com/Equipment.aspx?ID=831)
+  * *Note: Unlike in 1e the Philosopher's Stone isn't easily usable by characters under level 20. Although it doesn't have a listed value, it should be worth ~7000gp if the players want to sell it.*
+
+## Level 15
+
+### Dungeon Level 3
 
 ## Side Quests
 
