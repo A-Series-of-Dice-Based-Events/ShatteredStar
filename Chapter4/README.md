@@ -201,6 +201,62 @@ _Since each of the encounters in this area has the potential to spill into each 
 
 ### Dungeon Level 3
 
+* **D1. Woodland Room (Trivial 15)**
+  * **Hazard:** Malfunctioning Portal, Arcana, Religion, Occult or Nature DC38(expert) to detect, DC42(master) to disable. 10d6 sonic and 10d6 force damage (DC38 basic reflex) targeting everyone in the room. Deafens for 1 hour on a failure and permanently on a critical failure. 
+
+* **D2. Underground Library (Trivial 15)**
+  * Ricle Peaks Advanced [Bogeyman](https://2e.aonprd.com/Monsters.aspx?ID=509) (Level 15)
+    * In addition to statistic advancement, increase phantasmal killer's spell level to 6 and add [Phantasmal Calamity](https://2e.aonprd.com/Spells.aspx?ID=218) to his spell list. 
+  * **Treasure:** Reference books that give a +3 item bonus when researching Thassilon, Azlant, or the worship of Groetus. Complete collection is 50 bulk, but worth 500gp. DC40 (master) to find the secret door to the north. The room contains a scroll of [Restoration](https://2e.aonprd.com/Spells.aspx?ID=258) (6th), and [All is One, One is All](https://2e.aonprd.com/Spells.aspx?ID=815), Commune ritual formula and components for 2 castings.
+  * For 5 pleyrs advance Ricle Peaks to level 16 and add a scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105) to the hidden room.
+
+* **D3. Cultist Cells (Low 15)**
+  * [Japalisura](https://2e.aonprd.com/Monsters.aspx?ID=1071) (4)
+  * For 5 players give the Japalisura the elite adjustment.
+
+* **D4. Ancient Lounge (Low 15)**
+  * Advanced [Animate Dreams](https://2e.aonprd.com/Monsters.aspx?ID=546) (Level 14)
+    * Increase all spells to 7th level
+  * Gein Kafog begins the battle unconscious at 0 hp, stupefied 4 and wounded 2.
+  * *Note: If Zolerim joins the battle this is a severe encounter*
+  * **Treasure:** Gein's equipment, Pottery and silverware worth 300gp.
+  * For 5 players add a 3rd Animate Dream.
+
+* **D5. High Priest's Chambers (Low 15)**
+  * [Zolerim](https://monster.pf2.tools/v/ZLvmt0R7-zolerim)
+  * **Treasure:** +2 greater striking dagger, +2 resilient explorer's clothing, [Major Staff of Evocation](https://2e.aonprd.com/Equipment.aspx?ID=355), misc treasure worth 375gp, *My Lady's Fire* contains all common fire spells + 2d4 uncommon/rare ones, worth 2500gp, [Major Firestarter Pellets](https://2e.aonprd.com/Equipment.aspx?ID=1005)
+  * For 5 players add a [Wand of Crackling Lightning](https://2e.aonprd.com/Equipment.aspx?ID=754) (6th)
+
+* **D7. Torture Chamber**
+  * **Treasure:** Wand of [Gentle Repose](https://2e.aonprd.com/Spells.aspx?ID=131) (5th), 4 doses of embalming fluid, [Expanded Alchemist's Lab](https://2e.aonprd.com/Equipment.aspx?ID=543)
+
+* **D8. Qlippoth Guardians (Moderate 15)**
+  * The statue closer to the secret door is a petrified Weak [Thulgant](https://2e.aonprd.com/Monsters.aspx?ID=777) while the other is just a statue. The Thulgant de-petrifies and attacks if the characters attempt to open the secret door.
+  * For 5 players remove the Weak adjustment.
+
+* **D9. Prison (Low 15)**
+  * [Shemhazian](https://2e.aonprd.com/Monsters.aspx?ID=102)
+  * *Note: This room is very small. I made the following adjustments to it: Reduce Shemhazian size to Large and reduce reach of all attacks by 10 feet. "Knock down" the middle row of cells and replace with rubble (difficult terrain).*
+  * Nildus is fatigued and has 20hp remaining
+  * **Treasure:** 500 gp in assorted jewelry, scroll of [Heal](https://2e.aonprd.com/Spells.aspx?ID=148) (7th), scroll of [Restoration](https://2e.aonprd.com/Spells.aspx?ID=258) (6th) (2)
+  * For 5 players use 2 Weak Shemhazian and add a scroll of [Diety's Strike](https://2e.aonprd.com/Spells.aspx?ID=892)
+
+* **D10. Ocean Room**
+  * **Treasure:** Lamp of blue crystal worth 350gp
+
+* **D11. Gathuspia's Den (Moderate 15)**
+  * [Gathuspia](https://monster.pf2.tools/v/zFcVfFV0)
+  * **Treasure:** +2 Greater Striking Unholy Dagger
+
+* **D12. Sacred Fire (Moderate 15)**
+  * Elite [Fire Yai](https://2e.aonprd.com/Monsters.aspx?ID=748)
+  * Advanced [Salamander](https://2e.aonprd.com/Monsters.aspx?ID=189) (Level 12) (3)
+  * The fire pit deals 20 fire damage per round + 1d10 persistent fire.
+  * **Treasure:** Gold [Dragonplate](https://2e.aonprd.com/Equipment.aspx?ID=151). To finish the armor requires 1 day of work. Since the work is mostly completed it can be finished by a crafter of master ability or above.
+  * For 5 players add 1 more Salamander and a [Reforging Shield](https://2e.aonprd.com/Equipment.aspx?ID=542)
+
+### Dungeon Level 4
+
 ## Side Quests
 
 * **Magnimarian Quests**
