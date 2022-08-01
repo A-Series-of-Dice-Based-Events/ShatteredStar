@@ -42,7 +42,8 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
 * **A3. Postern Gate (Trivial 13)**
   * **Hazard:** Greater Glyph of Warding
     * Stealth DC 37, Disable Arcana or Occult DC 35 or dispel a 7th level spell.
-    * 6d10 + 30 sonic damage and alerts everyone in the area.
+    * 6d10 + 30 sonic damage and alerts everyone in the area (basic Reflex DC 37).
+    * Deafens for an hour on a failure and permanently on a critical failure.
 * **A4. Lighthouse Entrance**
   * A [Lock](https://2e.aonprd.com/Spells.aspx?ID=174) spell (Level 9, DC36) has been placed on the lock to the lighthouse. Speaking "Pharasmae" can allow one to open the door.
 * **A5. Pharus Pharasme**
@@ -63,7 +64,7 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
 * **A10. Labyrinth Without Walls (Moderate 13)**
   * Checks at DC20 are enough to give information about the lock.
   * **Hazard:** Doomsday Lock
-    * If attempting to pick the lock make a DC30 reflex each round or picks are destroyed. The lock is good [lock](https://2e.aonprd.com/Equipment.aspx?ID=30), but with the DC increased to 35.
+    * If attempting to pick the lock make a DC30 reflex each round or picks are destroyed. The lock is a good [lock](https://2e.aonprd.com/Equipment.aspx?ID=30), but with the DC increased to 35.
     * Picking or otherwise forcing the door subjects everyone within 30 feet to a [Maze](https://2e.aonprd.com/Spells.aspx?ID=187) spell (DC 34). Each round creatures in the maze must make a DC34 Will save or increase their stupified condition by 1. If they become stupified 4 they can no longer help to escape the maze.
 * **A11. Charred Dormitory (Low 13)**
   * [Larla Clankypump](https://monster.pf2.tools/v/X6OMQ8fr-larla-clankypump)
@@ -211,8 +212,8 @@ _Since each of the encounters in this area has the potential to spill into each 
   * For 5 pleyrs advance Ricle Peaks to level 16 and add a scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105) to the hidden room.
 
 * **D3. Cultist Cells (Low 15)**
-  * [Japalisura](https://2e.aonprd.com/Monsters.aspx?ID=1071) (4)
-  * For 5 players give the Japalisura the elite adjustment.
+  * Advanced [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371) (Level 12) (4)
+  * For 5 players give the Wrathspawn the elite adjustment.
 
 * **D4. Ancient Lounge (Low 15)**
   * Advanced [Animate Dreams](https://2e.aonprd.com/Monsters.aspx?ID=546) (Level 14)
@@ -257,6 +258,74 @@ _Since each of the encounters in this area has the potential to spill into each 
 
 ### Dungeon Level 4
 
+* **E1. South Cavern (Moderate 15)**
+  * Sea Drakes (Use Elite [Adult Sea Dragon](https://2e.aonprd.com/Monsters.aspx?ID=1126)) (4)
+    * Reduce to large size
+  * For a donation of 300gp or more the drakes will allow the characters access to this area.
+  * **Treasure:** 1000gp in various coins and treasure, [Ring of Wizardry Type IV](https://2e.aonprd.com/Equipment.aspx?ID=462), [Bracers of Armor II](https://2e.aonprd.com/Equipment.aspx?ID=416)
+  * For 5 players add 1 more drake and 2 [Greater Bravo's Brew](https://2e.aonprd.com/Equipment.aspx?ID=84)
+
+* **E2. North Cavern**
+  * DC35 perception (expert) to notice the manipulated wall.
+
+* **E3. Offering Room (Trivial 15)**
+  * **Hazard:** Greater Glyph of Warding on the door (see area **A3**)
+
+* **E4. Guardian Crypt (Low 15)**
+  * Advanced [Greater Shadow](https://2e.aonprd.com/Monsters.aspx?ID=363) (Level 12) (4)
+  * For 5 players add 1 more shadow.
+
+* **E5. Ossuary**
+  * Each niche explored exposes one to [Crimson Ooze](https://2e.aonprd.com/Diseases.aspx?ID=14) if they fail a DC6 flat check.
+
+* **E6. Crypt of the Favored Acolytes (Trivial 15)**
+  * **Hazard:** Use [Spiked Barricade Trap](https://pf2easy.com/index.php?id=6626&name=spiked_barricade_trap)
+
+* **E7. Lights of the Dead (Low 15)**
+  * Advanced [Dread Wisp](https://2e.aonprd.com/Monsters.aspx?ID=1384) (Level 11) (6)
+  * DC35 Religion to recognize the carvings on the wall. DC35 Religion (expert) to know the prayer.
+  * A character who recites the prayer has a -4 to initiative checks while on this floor of the dungeon.
+  * **Hazard:** If the prayer is not recited within a minute, everyone in the room must make a DC30 Will check:
+    * **Critical Success** No effect
+    * **Success** Frightened 1
+    * **Failure** Frightened 2 and frightened may not drop below 1 for 10 minutes
+    * **Critical Failure** Frightened 4 and frightened may not drop below 1 for an hour.
+  * For 5 players advance to level 12
+
+* **E8. Preparation Room**
+  * **Treasure:** Mummification tools worth 200gp
+
+* **E9. Sacred Treasure Room**
+  * **Treasure:** 4352 sp that are worth 1gp each to a collector, [Necklace of Strangulation](https://2e.aonprd.com/Equipment.aspx?ID=605), [Poisonous Cloak III](https://2e.aonprd.com/Equipment.aspx?ID=606), [Bag of Devouring III](https://2e.aonprd.com/Equipment.aspx?ID=598), [Boots of Dancing](https://2e.aonprd.com/Equipment.aspx?ID=600), [Ring of Truth](https://2e.aonprd.com/Equipment.aspx?ID=607)
+
+* **E10. Crypts of the Final Priests (Trivial 12)**
+  * Elite [Mummy Pharaoh](https://2e.aonprd.com/Monsters.aspx?ID=305) (12)
+  * For 5 players advance the mummys to level 11.
+  * **Treasure:** Each mummy has 200gp worth of ancient jewelry.
+
+* **E11. Kandamereus's Tomb (Low 15)**
+  * Kandamereus (Use Advanced [Mummy Prophet of Set](https://2e.aonprd.com/Monsters.aspx?ID=1887) (Level 16))
+    * Add the following spells:
+    * **8th** Harm (x7), [Devour Life](https://2e.aonprd.com/Spells.aspx?ID=657), [Divine Armageddon](https://2e.aonprd.com/Spells.aspx?ID=896), [Spiritual Epidemic](https://2e.aonprd.com/Spells.aspx?ID=304)
+    * **7th** Replace Harm (x7) with [Finger of Death](https://2e.aonprd.com/Spells.aspx?ID=116)
+  * **Development:** The PCs can answer each of Kandamereus's questions with a DC35 Diplomacy or DC40 Bluff check. With 4 or more successess (2 successes for crit success, -1 success for crit fail) Kandamereus joins the party.
+  * **Treasure:** [Doomsday Staff](https://template.pf2.tools/v/mtjpqPvX-doomsday-staff), Greater [Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256) (function as a negative effect for him)
+  If he survives Kandamereus gives the party his Doomsday Staff and can teach the following uncommon spells: [Tongues](https://2e.aonprd.com/Spells.aspx?ID=340), [Return to Essence](https://2e.aonprd.com/Spells.aspx?ID=1087) and [Devour Life](https://2e.aonprd.com/Spells.aspx?ID=657)
+  * **Hazard:** Labyrinth Without Walls Trap (See **A10**)
+
+* **E12. Final Guardians (Low 15)**
+  * Elite [Iron Golem](https://2e.aonprd.com/Monsters.aspx?ID=242) (2)
+
+* **E13. Temple of Doomsday (Extreme 15)**
+  * Elite [Augnagar](https://2e.aonprd.com/Monsters.aspx?ID=776)
+  * Weak [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371) (Level 12) (4)
+  * Weak [Ardathanatus](https://monster.pf2.tools/v/s0l41Ptb-ardathanatus)
+  * *Note, if the party has both Koriah and Kandamereus with them this fight might actually become too easy since there is effectively a 6 player party. If your players want a more challenging fight you may want to replace the Augnagar with a Weak [Thulgant](https://2e.aonprd.com/Monsters.aspx?ID=777) as otherwise this can be a fairly easy final boss encounter.*
+  * **Hazard:** Tentacle +25, 2d8+10 bludgeoning + grab, athletics +25. Use Ardathanatus' initiative for simplicity. For grabbed creatures constrict 5d8, DC35 and move 5 feet towards the portal on a failure, 10 feet on a critical failure. Unconscious creatures are pulled twice as far. Any creature pulled into the portal is driven insane/ripped apart by Yamasoth and is effectively lost forever.
+  * **Development:** At the beginning of combat Ardathanatus uses 1 of his actions to continue the ritual and the other two to cast defensive or buffing spells. During this time the hazard attacks 1 of the two 10 foot wide sections outside of the pillars in the room out to 60 feet from the portal (10 feet from the door). All creatures in this room attempt to stay between the pillars to avoid this. If Ardathanatus is engaged in melee or takes significant damage he focuses on the intruders instead of the ritual. Once this happens the tentacles instead attack all creatures within 2 of the 4 10 foot wide spans in this room at random out to 60 feet from the portal. If Ardathanatus is incapacitated the doors in the room swing open for two rounds. Immediately, and on Ardathanatus' initiative each round every creature in the room is subject to a level 10 DC33 [Baleful Polymorph](https://2e.aonprd.com/Spells.aspx?ID=17) and the tentacles attack every creature within 60 feet of the door, although they do not try to grab or constrict any creature that has been Baleful Polymophed. At the end of the second round any creatures that are grabbed and within 15 feet of portal is pulled through as the doors slam shut.
+  * **Treasure:** +3 Greater Striking Greater Fearsome Halberd, +2 resilient Full Plate (or dragon plate from **D12**), [Shard of Envy](https://template.pf2.tools/v/QvDmWYdL-shard-of-envy), if Ardathanatus survives and is set down a better path he can teach the party the following uncommon spells: [Consecrate Flesh](https://2e.aonprd.com/Spells.aspx?ID=1110), [Blackfinger's Blades](https://2e.aonprd.com/Spells.aspx?ID=1076), [Dimensional Lock](https://2e.aonprd.com/Spells.aspx?ID=71), and [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105)
+  * For 5 players remove the weak adjustment from Ardithanatus and the Wrathspawn
+
 ## Side Quests
 
 * **Magnimarian Quests**
@@ -279,4 +348,4 @@ _Since each of the encounters in this area has the potential to spill into each 
 * [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
 * [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust)
 * [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
-* Shard of Envy
+* [Shard of Envy](https://template.pf2.tools/v/QvDmWYdL-shard-of-envy)
