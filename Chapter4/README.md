@@ -16,7 +16,7 @@ _**Treasure:** Moderate [Potion of Resistance](https://2e.aonprd.com/Equipment.a
 
 ### Part One: News of Destruction
 
-Sheila gives the party an Advanced Dusty Rose Prism [Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407). This functions the same as a standard version of the stone, but the shield cantrip scales with the level of the wielder. 
+Sheila gives the party an Agate Ellipsoid [Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407).
 
 #### Pilla the Peddler
 
