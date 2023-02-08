@@ -1,10 +1,10 @@
 # Into the Nightmare Rift
 
-_This is a conversion of the Adventure Path Beyond the Doomsday Door (Shattered Star Book 5) to Pathfinder 2nd edition.  This is intended to be a conversion from the original adventure meant for 4 players.  Since I am running this for 5 players I will also note potential additions for 5 players._
-_Expected level up points are noted and threat level of encounters are relative to those expected levels.  However, I use milestone leveling, so specific XP values are not given._
-_Since I am already converting the entire adventure path I am trying to make it cover the entire leveling range from 1-20. For this module, that means that it will be covering levels 16-18, with the characters just entering level 19 at the completion of the module._
+*This is a conversion of the Adventure Path Beyond the Doomsday Door (Shattered Star Book 5) to Pathfinder 2nd edition.  This is intended to be a conversion from the original adventure meant for 4 players.  Since I am running this for 5 players I will also note potential additions for 5 players.*
+*Expected level up points are noted and threat level of encounters are relative to those expected levels.  However, I use milestone leveling, so specific XP values are not given.*
+*Since I am already converting the entire adventure path I am trying to make it cover the entire leveling range from 1-20. For this module, that means that it will be covering levels 16-18, with the characters just entering level 19 at the completion of the module.*
 
-_Note, since the characters are now several levels above where they were in the original adventure we will often have to increase the levels of the creatures in the adventure. Rather than list the full stats for these creatures I will list these as Advanced 'creature' (Level x) where x is the level the creature has been increased to. You can use a digital tool to advance the stats and abilities of these creatures, or reference the creature building benchmarks in the game mastery guide to figure out what the new creature stats should be._
+*Note, since the characters are now several levels above where they were in the original adventure we will often have to increase the levels of the creatures in the adventure. Rather than list the full stats for these creatures I will list these as Advanced 'creature' (Level x) where x is the level the creature has been increased to. You can use a digital tool to advance the stats and abilities of these creatures, or reference the creature building benchmarks in the game mastery guide to figure out what the new creature stats should be.*
 
 ## Level 16
 
@@ -133,7 +133,9 @@ _Note, since the characters are now several levels above where they were in the 
 *All of the effects listed have a counteract level of 10.*
 
 #### Nightmares and Visions of Leng
+
 **Nightmares of Leng:** When sleeping each character must make a DC36 will save with the following effects:
+
 * **Success** The character has a dream of leng, they awake fatigued until after the first encounter of the day
 * **Failure** The character is attacked in their dream, they awake fatigued and drained 1
 * **Critical Failure** The character dies in their dream, they awake fatigued and drained 2 and must make an additional will save or be stupified 1
@@ -143,6 +145,7 @@ _Note, since the characters are now several levels above where they were in the 
 **Waking Nightmares:** Each of these has a counteract level of 10
 
 The Curator (Use [Fluxwraith](https://2e.aonprd.com/Monsters.aspx?ID=1858))
+
 * Add the rejuvination ability of a ghost
 * For 5 players add the elite adjustment
 
@@ -259,13 +262,14 @@ The Curator (Use [Fluxwraith](https://2e.aonprd.com/Monsters.aspx?ID=1858))
 * **D9. The Deep Hunt (Moderate 17)**
     * [Xaivanshee](https://monster.pf2.tools/v/ooS6qZWq)
     * Hunt Mistress (2)
-    * *Note: Xaivanshee is set to level 17 to be equivalent to the players if they ally with her. If the party decides to fight her here give her the elite adjustment*
+    * *Note: Xaivanshee is set to level 17 to be equivalent to the players if they ally with her. If the party decides to fight her here give her the elite adjustment.*
     * **Treasure:** +2 Greater Striking [Keen](https://2e.aonprd.com/Equipment.aspx?ID=300) Standard-grade [Mithril](https://2e.aonprd.com/Equipment.aspx?ID=377) Rapier, +2 Greater Striking [Speed](https://2e.aonprd.com/Equipment.aspx?ID=304) [Orichalcum](https://2e.aonprd.com/Equipment.aspx?ID=378) Rapier, (+2 striking raper, +2 striking repeating hand crossbow, shootist bandolier) * 1/Hunt Mistress
     * For 5 players add 2 more Hunt Mistresses
 
 #### Embassy of Leng
 
 Each hour spent in the embassy each creature must make a DC36 will save:
+
 * **Critical Success** Immune to the effect for the day
 * **Success** No effect this hour
 * **Failure** Frightened 1 until the next check
@@ -331,9 +335,11 @@ Each hour spent in the embassy each creature must make a DC36 will save:
 
 *The temple is Severe Cold. Creatures not in cold weather gear are subject to 2d6 cold damage each hour and become fatigued after 4 hours of exploration time. In addition the air is quite thin and can quickly make characters fatigued. After any strenous activity a character must make a DC35 fortitude save or become fatigued. Strenous activities include combat encounters, skill activities based on a physical ability scores, each 10 minutes of an exploration activity, etc.*
 
+*Note: Since altitude is not a normal hazard in pf2e there are no written ways to counter it that I could find. I allowed an Endure Elements (7th) to counter the effect of the altitude sickness (in addition to the severe cold)*
+
 * **F1. Temple Entrance (Low 18)**
     * [Nightgaunt Troop](https://monster.pf2.tools/v/L84HFDbP-nightgaunt-troop) (2)
-    * **Hazard:** **Severe Winds** At the beginning of each creature's turn they must make a DC35 Athletics check or be moved 5 feet in a random direction (10 feet on a critical failure). Creatures with a free hand can spend an interact action to hold onto something solid (such as a statue) to gain a +4 circumstance bonus to their next check and optionally make a Fortitude save instead of an Athletics check. Flying creatures must instead make a DC40 Maneuver in Flight check and the movement is doubled.
+    * **Hazard:** **Severe Winds** At the beginning of each creature's turn they must make a DC35 Athletics check or be moved 10 feet in a random direction (20 feet on a critical failure). Creatures with a free hand can use a reaction to hold onto something solid (such as a statue) to gain a +4 circumstance bonus to their check and optionally make a Fortitude save instead of an Athletics check. Flying creatures must instead make a DC40 Maneuver in Flight check and the forced movement is doubled. Non-flying creatures that are large increase their degree of success by 1 on this check and huge or larger creatures are immune, but both are affected normally while flying. Tiny creatures reduce their degree of success by 1.
     * **Hazard:** The cliff edge can be climbed with a DC30 check. The winds impose an additional -4 circumstance penalty to climb checks. Creatures that fall off the edge of the cliff find themselves in **E3** and take damage as if they had fallen 200 feet.
 
 * **F2. The Halls of Leng (Trivial 18)**
@@ -347,7 +353,7 @@ Each hour spent in the embassy each creature must make a DC36 will save:
 * **F6. Bone Pit (Low 18)**
     * Advanced [Gug](https://2e.aonprd.com/Monsters.aspx?ID=252) (Level 14) (4)
     * Advanced [Gug](https://2e.aonprd.com/Monsters.aspx?ID=252) (Level 16)
-        * This gug savant can cast the following innate spells at level 8 - Shape Stone, Spike Stones, Stoneskin, Transmute Rock and Mud, Pummeling Rubble, Shockwave, Scatter Scree
+        * This gug savant can cast the following innate spells at level 8 (DC34, +26) - Shape Stone, Spike Stones, Stoneskin, Transmute Rock and Mud, Pummeling Rubble, Shockwave, Scatter Scree
     * For 5 players advance the Gugs to level 15 instead.
 
 * **F7. Mesmalatu's Phylactery (Low 18)**
@@ -355,13 +361,27 @@ Each hour spent in the embassy each creature must make a DC36 will save:
     * **Treasure:** brazier worth 1000gp, Thassilonian funeral robe worth 2000gp, [Headband of Inspired Wisdom](https://2e.aonprd.com/Equipment.aspx?ID=402), [Amber Sphere Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)
     * For 5 players remove the weak adjustment and add a [Sun Orchid Poultice](https://2e.aonprd.com/Equipment.aspx?ID=763) to the treasure.
 
-* **F9. The Great Temple to the Crawling Chaos (Severe 18)**
+* **F9. The Great Temple to the Crawling Chaos (Moderate 18)**
     * Elite [Leng Spider](https://2e.aonprd.com/Monsters.aspx?ID=713) (4)
         * Reduce the spiders size to large so they fit in the room better
     * [Shoggoth](https://2e.aonprd.com/Monsters.aspx?ID=368)
-        * The shoggoth is unable to move, but may attack creatures within it's reach.
+        * The shoggoth is unable to move, but may attack creatures within it's reach from the edge of the bowl.
         * When taking the engulf action, the shoggoth instead makes an athletics check against the fortitude DC of each creature it currently has grabbed. On a success it pulls creatures adjacent to the bowl and extends the grapple for another round. Creatures that are already adjacent to the bowl are instead pulled into the bowl and engulfed by the shoggoth.
         * Each creature killed while adjacent to the bowl, or while grabbed/engulfed by the shoggoth reduces the ritual time by 3 days.
+    * For 5 players add an additional spider and give the Shoggoth the elite adjustment.
 
 * **F10. The Cursed Dragon (Severe 18)**
-    * 
+    * Cadrilkasta (Advanced [Ancient Blue Dragon](https://2e.aonprd.com/Monsters.aspx?ID=132) (Level 21))
+        * Add the following level 9 spells: [Disjunction](https://2e.aonprd.com/Spells.aspx?ID=77), [Foresight](https://2e.aonprd.com/Spells.aspx?ID=127), [Summon Draconic Legion](https://2e.aonprd.com/Spells.aspx?ID=1008)
+        * Cadrilkasta may also use any abilities of the [Shard of Sloth](https://template.pf2.tools/v/8Rz9PQPo-shard-of-sloth), but also suffers from its curse.
+    * **Hazard:** The same severe winds and cliff edge exist here as in **F1**. Due to her size Cadrilkasta is immune to the severe winds unless flying.
+    * **Treasure:** +2 Greater Striking [Greater Flaming](https://2e.aonprd.com/Equipment.aspx?ID=295) Spear, [Eye of Fortune](https://2e.aonprd.com/Equipment.aspx?ID=435), [Titan's Grasp](https://2e.aonprd.com/Equipment.aspx?ID=1082), [Major Energy Mutagen](https://2e.aonprd.com/Equipment.aspx?ID=474), [Eye of Apprehension](https://2e.aonprd.com/Equipment.aspx?ID=209), [Lucky Rabbit's Foot](https://2e.aonprd.com/Equipment.aspx?ID=568), Scroll of [Miracle](https://2e.aonprd.com/Spells.aspx?ID=196), [Shard of Sloth](https://template.pf2.tools/v/8Rz9PQPo-shard-of-sloth), 10,000gp in coins and another 10,000 gp in misc treasure
+    * **Development:** If Xaivanshee is with the party she immediately attempts to grab the Shard of Sloth once Cadrilkasta has been defeated. If she does so she says a quick prayer and then slits her own throat, killing herself. Give the party 10 minutes before she rises as a vampire (see **F10a** below)
+    * For 5 players add an Elite [Cornugon](https://2e.aonprd.com/Monsters.aspx?ID=611) named Xavrax whom Cadrilkasta has bound to serve as commander of her legions. Xavrax has been stuck doing menial tasks for the slothful Cadrilkasta and relishes any chance for combat. Add 5000gp, a [Dispelling Sliver](https://2e.aonprd.com/Equipment.aspx?ID=205) and a [Floating Shield](https://2e.aonprd.com/Equipment.aspx?ID=319) to the treasure.
+
+* **F10a. Vampiric Xaivanshee (Severe 18)**
+    * *After Xiavanshee kills herself with the Shard of Sloth each of her Hunt Mistresses begins a prayer to Zura over her body, not realizing it will lead to their own demise. After 10 minutes the Hunt Mistresses let out a scream as their blood is drained from their body into Xiavanshee. Xiavanshee rises as a true vampire and each of the Hunt Mistresses is instantly transformed into a Vampire Spawn.*
+    * [Vampire Xiavanshee](https://monster.pf2.tools/v/lDclC4p1)
+    * Advanced [Vampire Guardian](https://2e.aonprd.com/Monsters.aspx?ID=2149) (Level 16) (3)
+    * **Treasure:** Equipment from Xiavanshee & 3 Hunt Mistresses (see **D9**)
+    * For 5 players advance the Vampire Guardians to level 17
