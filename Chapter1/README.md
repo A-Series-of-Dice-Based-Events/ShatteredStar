@@ -334,7 +334,7 @@ _**Treasure:** [Barkskin Potion](https://2e.aonprd.com/Equipment.aspx?ID=184), [
 
 #### Addition 5: PFS 4-23 - Rivalry’s End
 
-_This wraps up the story arc of The Spider and her role in the Aspis Consortium started with Addition 2.  This can occur any time in this section of the adventure if your players need a break from dungeon crawling, or after they have found the second shard.  You likely want to modify the ending of this module, since the PFS Shadow Lodge plotline isn’t important to this adventure path.  My recommendation is to have a tie in to the Cult of Lissala to tie into higher level PFS scenarios that can be run as additions to later books of this AP.  Conversion is [here](docs.google.com/document/d/17NM5mVT0vgnXSxiN2JOWx4dOcNicvaA3GYyNPmVbNWA)._
+_This wraps up the story arc of The Spider and her role in the Aspis Consortium started with Addition 2.  This can occur any time in this section of the adventure if your players need a break from dungeon crawling, or after they have found the second shard.  You likely want to modify the ending of this module, since the PFS Shadow Lodge plotline isn’t important to this adventure path.  My recommendation is to have a tie in to the Cult of Lissala to tie into higher level PFS scenarios that can be run as additions to later books of this AP.  Conversion is [here](https://docs.google.com/document/d/17NM5mVT0vgnXSxiN2JOWx4dOcNicvaA3GYyNPmVbNWA)._
 
 **_Treasure:_** [Disguise Kit](https://2e.aonprd.com/Equipment.aspx?ID=19) (4), [Thieves’ Tools](https://2e.aonprd.com/Equipment.aspx?ID=58) (2), [Ghost Ink](https://2e.aonprd.com/Equipment.aspx?ID=696), Silver serving set worth 10gp, [Potion of Leaping](https://2e.aonprd.com/Equipment.aspx?ID=190), +1 Rapier, [Healing Potion (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=186), [Potion of Invisibility](https://2e.aonprd.com/Equipment.aspx?ID=187), gold inkstand, engraved hourglass, and fine paper worth a total of 25 gp, documents worth 50gp.
 
@@ -393,6 +393,9 @@ _This wraps up the story arc of The Spider and her role in the Aspis Consortium 
     *   [Advanced Shriezyx](https://monster.pf2.tools/v/RpM78YcZ) (2)
     *   **Treasure:** [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR)
     *   For 5 players add a [Grothlut](https://2e.aonprd.com/Monsters.aspx?ID=206)
+
+### Concluding the Adventure
+*When the characters return to Heidmarch Manor Sheila gives them a [Gold Nodule Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) which is attuned to the Thassilonian language. This can be used to suppress the curse of the [Shard of Greed](https://template.pf2.tools/v/y6yCxTtR).*
 
 
 ## Side Quests
