@@ -4,15 +4,15 @@ _This is a conversion of the Adventure Path Beyond the Doomsday Door (Shattered 
 _Expected level up points are noted and threat level of encounters are relative to those expected levels.  However, I use milestone leveling, so specific XP values are not given._
 _Since I am already converting the entire adventure path I am trying to make it cover the entire leveling range from 1-20. For this module, that means that it will be covering levels 13-15, with the characters just entering level 16 at the completion of the module._
 _In addition to the adventure path itself I will be adding “Additions” that are intended to enhance the adventure path.  These conversions will be kept in separate documents so that this conversion is faithful to the original adventure, but the places where I would add the content is noted._
+
 _Note, since the characters are now several levels above where they were in the original adventure we will often have to increase the levels of the creatures in the adventure. Rather than list the full stats for these creatures I will list these as Advanced 'creature' (Level x) where x is the level the creature has been increased to. You can use a digital tool to advance the stats and abilities of these creatures, or reference the creature building benchmarks in the game mastery guide to figure out what the new creature stats should be._
 
 ## Level 13
 
-#### Addition 14: PFS 4-26 The Waking Rune
+#### [Addition 14: PFS 4-26 The Waking Rune](../Additions/14-the-waking-rune.md)
 
-_In this final addition we get to the conclusion to the Cult of Lissala story arc. The pathfinders take on Krune, the Runelord of Sloth to prevent him from returning to Varisia. Conversion is [here](https://docs.google.com/document/d/1AN0HfrXwfCqnSXyaoiXWPkPHxTKhg6iNkJNTtSzRTv8/)._
-
-_**Treasure:** Moderate [Potion of Resistance](https://2e.aonprd.com/Equipment.aspx?ID=192) (1/character), Greater [Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186) (1/character), +2 Greater Striking Adamantine Flail, [Staff of Healing](https://2e.aonprd.com/Equipment.aspx?ID=357) (Major), +2 striking rapier (2), +1 resilient leather armor (2), [Staff of Conjuration](https://2e.aonprd.com/Equipment.aspx?ID=352) (Major)_
+_In this final addition we get to the conclusion to the Cult of Lissala story arc. The pathfinders take on Krune, the Runelord of Sloth to prevent him from returning to Varisia._<br>
+**Treasure:** Moderate [Potion of Resistance](https://2e.aonprd.com/Equipment.aspx?ID=192) (1/character), Greater [Healing Potion](https://2e.aonprd.com/Equipment.aspx?ID=186) (1/character), +2 Greater Striking Adamantine Flail, [Staff of Healing](https://2e.aonprd.com/Equipment.aspx?ID=357) (Major), +2 striking rapier (2), +1 resilient leather armor (2), [Staff of Conjuration](https://2e.aonprd.com/Equipment.aspx?ID=352) (Major)
 
 ### Part One: News of Destruction
 
@@ -356,7 +356,6 @@ _Since each of the encounters in this area has the potential to spill into each 
     * **Treasure:** +2 Greater Striking [Guiding Star](https://2e.aonprd.com/Equipment.aspx?ID=1059) (Price 2225 gp)
   * **Koriah Azmeren**
     * **Development:** Koriah joins the party for the remainder of the adventure.
-
 
 ## Shards
 
