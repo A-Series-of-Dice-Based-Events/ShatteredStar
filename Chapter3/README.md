@@ -5,72 +5,55 @@ _Expected level up points are noted and threat level of encounters are relative 
 _Since I am already converting the entire adventure path I am trying to make it cover the entire leveling range from 1-20. For this module, that means that it will be covering levels 9-12, with the characters just entering level 13 at the completion of the module._
 _In addition to the adventure path itself I will be adding several “Additions” that are intended to enhance the adventure path.  These conversions will be kept in separate documents so that this conversion is faithful to the original adventure, but the places where I would add the content is noted._
 
-
 ## Level 9
 
+#### [Addition 8: PFS 4-03 The Golemworks Incident](../Additions/8-the-golemworks-incident.md)
 
-#### Addition 8: PFS 4-03 The Golemworks Incident
-
-_After being away from Magnimar for so long it’s nice to spend some time back in the city. This module also introduces the Golemworks as a major force in magnimar and continues the theme of the Aspis Consortium being a recurring antagonist of the Pathfinder Society. Conversion is [here](https://docs.google.com/document/d/1lzbnVaNNBnMU1l2Z9plNeCvAXxgHs0ZoD6uGtqMPCjs)._
-
-_**Treasure: **[Sturdy Shield (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=327), Trusty Buddy (Adamantine [Levered Crowbar](https://2e.aonprd.com/Equipment.aspx?ID=18)), +1 Crossbow, +1 Staff, books worth 300 sp, wand of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256) (Level 2), +1 striking composite shortbow (20 arrows), +1 rapier, [invisibility potion](https://2e.aonprd.com/Equipment.aspx?ID=187), [giant wasp venom](https://2e.aonprd.com/Equipment.aspx?ID=115), [lesser darkvision elixir](https://2e.aonprd.com/Equipment.aspx?ID=89), Statue of Lissala worth 250 sp, 4 [Lesser Elixer of Life](http://2e.aonprd.com/Equipment.aspx?ID=91), [Slippers of Spider Climbing](http://2e.aonprd.com/Equipment.aspx?ID=465),  (+1 sickle, [moderate antidote](https://2e.aonprd.com/Equipment.aspx?ID=80), [moderate antiplague](https://2e.aonprd.com/Equipment.aspx?ID=81)) * 2, +1 crossbow, +1 resilient explorer's clothing, [moderate healing potion](https://2e.aonprd.com/Equipment.aspx?ID=186), [staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351), [Dusty Rose Prism Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), 100gp_
-
+_After being away from Magnimar for so long it’s nice to spend some time back in the city. This module also introduces the Golemworks as a major force in magnimar and continues the theme of the Aspis Consortium being a recurring antagonist of the Pathfinder Society._<br>
+**Treasure:** [Sturdy Shield (Lesser)](https://2e.aonprd.com/Equipment.aspx?ID=327), Trusty Buddy (Adamantine [Levered Crowbar](https://2e.aonprd.com/Equipment.aspx?ID=18)), +1 Crossbow, +1 Staff, books worth 300 sp, wand of [Resist Energy](https://2e.aonprd.com/Spells.aspx?ID=256) (Level 2), +1 striking composite shortbow (20 arrows), +1 rapier, [invisibility potion](https://2e.aonprd.com/Equipment.aspx?ID=187), [giant wasp venom](https://2e.aonprd.com/Equipment.aspx?ID=115), [lesser darkvision elixir](https://2e.aonprd.com/Equipment.aspx?ID=89), Statue of Lissala worth 250 sp, 4 [Lesser Elixer of Life](http://2e.aonprd.com/Equipment.aspx?ID=91), [Slippers of Spider Climbing](http://2e.aonprd.com/Equipment.aspx?ID=465),  (+1 sickle, [moderate antidote](https://2e.aonprd.com/Equipment.aspx?ID=80), [moderate antiplague](https://2e.aonprd.com/Equipment.aspx?ID=81)) * 2, +1 crossbow, +1 resilient explorer's clothing, [moderate healing potion](https://2e.aonprd.com/Equipment.aspx?ID=186), [staff of abjuration](https://2e.aonprd.com/Equipment.aspx?ID=351), [Dusty Rose Prism Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407), 100gp
 
 ### Part One: Up a River
 
 _Note that if you’re using the additions then the route from Magnimar is a bit different. The party takes a ship to Korvosa and then to Palin’s Cove. From Palin’s Cove they take an overland trek to Melfesh, and from there take the Lucky Jenny the rest of the way to the Halflight Path._
 
+#### [Addition 9: PFS 4-06 The Green Market](../Additions/9-the-green-market.md)
 
-#### Addition 9: PFS 4-06 The Green Market
+_In my game several characters are from Korvosa and the players recently finished Curse of the Crimson Throne, so re-visiting the city itself is meaningful to them.  This module has connections to both the Aspis Consortium and the Cult of Lissala, but isn’t a critical story component, so feel free to skip it if you don’t want to stop by Korvosa.  If you do skip this one you’ll want to have Sheila give the party the [Pink Rhomboid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) before they leave Magnimar._<br>
+**Treasure:** +1 Morningstar (4), +1 Spear, [Potion of Moderate Resistance](http://2e.aonprd.com/Equipment.aspx?ID=192) (2 fire), [Moderate Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186) (3), [Potion of Quickness](http://2e.aonprd.com/Equipment.aspx?ID=191), +1 Striking Ghost Touch Staff, [Elemental Gem (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=243), [Necklace of Fireballs III](http://2e.aonprd.com/Equipment.aspx?ID=449)_, _[Pink Rhomboid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)
 
-_In my game several characters are from Korvosa and the players recently finished Curse of the Crimson Throne, so re-visiting the city itself is meaningful to them.  This module has connections to both the Aspis Consortium and the Cult of Lissala, but isn’t a critical story component, so feel free to skip it if you don’t want to stop by Korvosa.  If you do skip this one you’ll want to have Sheila give the party the [Pink Rhomboid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407) before they leave Magnimar. Conversion is [here](https://docs.google.com/document/d/1d6MAEzKA6syPaSYo9vmqnjxiPdzJcRp_eBCWJXH0dUI/)._
+#### [Addition 10: PFS 4-08 The Cultist’s Kiss](../Additions/10-the-cultists-kiss.md)
 
-_**Treasure:** +1 Morningstar (4), +1 Spear, [Potion of Moderate Resistance](http://2e.aonprd.com/Equipment.aspx?ID=192) (2 fire), [Moderate Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186) (3), [Potion of Quickness](http://2e.aonprd.com/Equipment.aspx?ID=191), +1 Striking Ghost Touch Staff, [Elemental Gem (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=243), [Necklace of Fireballs III](http://2e.aonprd.com/Equipment.aspx?ID=449)_, _[Pink Rhomboid Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407)_
-
-
-#### Addition 10: PFS 4-08 The Cultist’s Kiss
-
-_This is the first in a 5 part series of modules in which the Cult of Lissala is the major antagonist, and which ends with the defeat of the Runelord Krune. Conversion is [here](https://docs.google.com/document/d/1T4M86iOZGcHzhfKs8w_Djob7wRgLuUuDhN9s3ug9Y9s)._
-
-_**Treasure: **[Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance), +1 Striking Rapier, +1 Striking Shortbow, [Elemental Wayfinder (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=470), [Storm Arrow](http://2e.aonprd.com/Equipment.aspx?ID=169) (2), +1 Resilient Explorer’s Clothing (2), [Slime Whip](http://2e.aonprd.com/Equipment.aspx?ID=792), [Phylactery of Faithfulness](http://2e.aonprd.com/Equipment.aspx?ID=452) (Lissala), Scroll of [Vampiric Maiden](http://2e.aonprd.com/Spells.aspx?ID=725) (4th), Scroll of [Enervation](http://2e.aonprd.com/Spells.aspx?ID=687) (4th), 200gp_
-
+_This is the first in a 5 part series of modules in which the Cult of Lissala is the major antagonist, and which ends with the defeat of the Runelord Krune._<br>
+**Treasure:** [Sihedron Brand (Endurance)](https://template.pf2.tools/v/pv8HmTRB-sihedron-brand-endurance), +1 Striking Rapier, +1 Striking Shortbow, [Elemental Wayfinder (Fire)](http://2e.aonprd.com/Equipment.aspx?ID=470), [Storm Arrow](http://2e.aonprd.com/Equipment.aspx?ID=169) (2), +1 Resilient Explorer’s Clothing (2), [Slime Whip](http://2e.aonprd.com/Equipment.aspx?ID=792), [Phylactery of Faithfulness](http://2e.aonprd.com/Equipment.aspx?ID=452) (Lissala), Scroll of [Vampiric Maiden](http://2e.aonprd.com/Spells.aspx?ID=725) (4th), Scroll of [Enervation](http://2e.aonprd.com/Spells.aspx?ID=687) (4th), 200gp
 
 #### Clash with the Sorebacks (Low 9)
 
 _The original creatures in this encounter are leveled so low it didn’t really feel like it was worth converting.  I used Xulgath’s instead of Boggards because there are a lot of them available._
 
-* [Xulgath Mage](https://pf2.easytool.es/index.php?id=5543&name=xulgath_mage)
-* [Xulgath Skirmisher](https://pf2.easytool.es/index.php?id=6409&name=xulgath_skirmisher) (3)
+* [Xulgath Mage](https://2e.aonprd.com/Monsters.aspx?ID=2019)
+* [Xulgath Skirmisher](https://2e.aonprd.com/Monsters.aspx?ID=2104) (3)
 * **Treasure:** Amber necklace worth 30gp, [Greater Everyneed Pack](https://2e.aonprd.com/Equipment.aspx?ID=856) belonging to Eando Kline
 * For 5 players add 1 skirmisher
-
 
 #### The Halflight Path
 
 * Abra Lopati (Use [Hunter](https://2e.aonprd.com/NPCs.aspx?ID=907))
-
 
 #### Screams in the Dark (Moderate 9)
 
 * Elite [Seugathi Servant](https://2e.aonprd.com/Monsters.aspx?ID=1048) (4)
 * For 5 players add 1 Seugathi
 
-
 ## Level 10
-
 
 ### Part Two: City of Strangers
 
+#### [Addition 11: PFS 4-10 The Feast of Sigils](../Additions/11-the-feast-of-sigils.md)
 
-#### Addition 11: PFS 4-10 The Feast of Sigils
-
-_Part 2 of the Cult of Lissala arc is conveniently located right in Kaer Maga.  Since we aren’t in Magnimar, Ollysta Zadrian can show up in Kaer Maga to give the mission briefing, and can be the PCs contact for future missions in this arc. Conversion is [here](https://docs.google.com/document/d/1-G2Pj74WcHIrT3uMWAotHE9UgICjkf_l5Wv5dH_q4pA)._
-
-_**Treasure: **+2 Striking handwraps of mighty blows, +1 studded leather armor, +1 shortsword (3), [elixir of life (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=91), [mummified bat](http://2e.aonprd.com/Equipment.aspx?ID=227), 150 gp, +1 Striking composite shortbow, +1 striking dagger, +1 leather armor, [shadow essence](https://2e.aonprd.com/Equipment.aspx?ID=127) (2), 300gp_
-
+_Part 2 of the Cult of Lissala arc is conveniently located right in Kaer Maga.  Since we aren’t in Magnimar, Ollysta Zadrian can show up in Kaer Maga to give the mission briefing, and can be the PCs contact for future missions in this arc._<br>
+**Treasure:** +2 Striking handwraps of mighty blows, +1 studded leather armor, +1 shortsword (3), [elixir of life (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=91), [mummified bat](http://2e.aonprd.com/Equipment.aspx?ID=227), 150 gp, +1 Striking composite shortbow, +1 striking dagger, +1 leather armor, [shadow essence](https://2e.aonprd.com/Equipment.aspx?ID=127) (2), 300gp
 
 #### Balconies of Bis
-
 
 ##### A. The Hanging Manse
 
@@ -108,7 +91,7 @@ _**Treasure: **+2 Striking handwraps of mighty blows, +1 studded leather armor, 
     * **Treasure:** 500gp of books belonging to the Ardoc Library. Perception DC25  to find a pornographic flipbook (value 5 gp) and book about crafting Clay Golems worth 300gp
     * For 5 players also add a Glass Golem book worth 180gp
 * **A14. Kitchen (Trivial 10)**
-    * Exploding Stove (Use [Explosive Furniture Trap](https://pf2.easytool.es/index.php?id=6622&name=explosive_furniture_trap) with fire damage)
+    * Exploding Stove (Use [Explosive Furniture Trap](https://pf2easy.com/index.php?id=6622&name=explosive_furniture_trap) with fire damage)
 * **A15. Pantry**
     * **Treasure:** 50gp of exotic spices
 * **A16. Dining Room (Low 10)**
@@ -126,43 +109,35 @@ _**Treasure: **+2 Striking handwraps of mighty blows, +1 studded leather armor, 
     * **Treasure:** +1 [Grevious](http://2e.aonprd.com/Equipment.aspx?ID=298) Striking Composite Longbow, Wand of [Resist Energy](http://2e.aonprd.com/Spells.aspx?ID=256) (4th), +1 leather armor
     * For 5 players give Halifax the elite adjustment and add a resilient rune to her armor.
 * **A21. Master Bedroom (Low 10)**
-    * Kanya Ismahe (Use [Thea](https://pf2.easytool.es/index.php?id=4580&name=thea))
+    * Kanya Ismahe (Use [Thea](https://pf2easy.com/index.php?id=4580&name=thea))
         * Increase acrobatics to +25
         * Remove efficient capture
         * Add [catfolk](http://2e.aonprd.com/Ancestries.aspx?ID=17) land on your feet ability
     * **Treasure:** +2 Striking Rapier, Moderate [Elixir of Life](http://2e.aonprd.com/Equipment.aspx?ID=91) (2), Greater [Mistform Elixir](http://2e.aonprd.com/Equipment.aspx?ID=96), +1 leather armor
 * **A23. Berkanin’s Workshop (Severe 10)**
-    * Berkanin Ardoc (Use [Scathka](https://pf2.easytool.es/index.php?id=10244&name=scathka))
+    * Berkanin Ardoc (Use [Scathka](https://pf2easy.com/index.php?id=10244&name=scathka))
     * [Divine Warden of Brigh](http://2e.aonprd.com/Monsters.aspx?ID=1137)
     * Augustille (Use Weak [Troll King](http://2e.aonprd.com/Monsters.aspx?ID=396) with 50 hp)
     * **Treasure:** Wings of Flying (use [Winged Boots](http://2e.aonprd.com/Equipment.aspx?ID=472)), Greater [Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186), Augustille prophecies (worth 300 gp), +1 striking dagger, [Wand of Manifold Missiles](http://2e.aonprd.com/Equipment.aspx?ID=370) (3rd), spellbook with all of Berkanin’s spells (includes the following uncommon spells: [Swarming Wasp Stings](http://2e.aonprd.com/Spells.aspx?ID=829), [Mind Probe](http://2e.aonprd.com/Spells.aspx?ID=193), and [Tongues](http://2e.aonprd.com/Spells.aspx?ID=340))
     * For 5 players add the Elite adjustment to the Divine Warden and add scrolls for each of the uncommon spells.
 
-
 #### Returning Augustille
 
 _If you’re using the additions you should have the players do addition 12 before doing the events back at the Augur Temple, otherwise the timeline of Part 3 doesn’t really line up.  You can have Vargun tell the PCs she has leads, but needs some time to follow up on them or something._
 
-
 ## Level 11
 
+### [Addition 12: PFS 4-12 The Refuge of Time](../Additions/12-the-refuge-of-time.md)
 
-### Addition 12: PFS 4-12 The Refuge of Time
-
-_Part 3 of the Cult of Lissala story arc has the players traveling to the Wyvern Mountains west of Kaer Maga to seek out Refuge Tokens that can teleport one to the Runelord Krune's resting place. Conversion is [here](https://docs.google.com/document/d/1-DN9iSvXEpJUhuDpSh_xnMWLHIxA9BT3b20HQ0tij2I)._
-
-_**Treasure: **+1 Striking [Holy](http://2e.aonprd.com/Equipment.aspx?ID=299) Mace, 500gp in gemstones, +1 Striking [Conducting](http://2e.aonprd.com/Equipment.aspx?ID=919) Whip, [Quill of Passage](http://2e.aonprd.com/Equipment.aspx?ID=881), +1 Resilient Full Plate (see [graveknight’s curse](http://2e.aonprd.com/Monsters.aspx?ID=244)), +2 Striking [Frost](http://2e.aonprd.com/Equipment.aspx?ID=296) Greatsword, Greater [Staff of Conjuration](http://2e.aonprd.com/Equipment.aspx?ID=352), Greater [Choker of Elocution](http://2e.aonprd.com/Equipment.aspx?ID=422) (Thassilonian, Azlanti, and Aklo) emblazoned with a sihedron rune, +1 Striking longspear (4), Greater [Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186), [Potion of Flying](http://2e.aonprd.com/Equipment.aspx?ID=189), [Planar Binding](https://2e.aonprd.com/Rituals.aspx?ID=17) ritual_
-
+_Part 3 of the Cult of Lissala story arc has the players traveling to the Wyvern Mountains west of Kaer Maga to seek out Refuge Tokens that can teleport one to the Runelord Krune's resting place._<br>
+**Treasure: **+1 Striking [Holy](http://2e.aonprd.com/Equipment.aspx?ID=299) Mace, 500gp in gemstones, +1 Striking [Conducting](http://2e.aonprd.com/Equipment.aspx?ID=919) Whip, [Quill of Passage](http://2e.aonprd.com/Equipment.aspx?ID=881), +1 Resilient Full Plate (see [graveknight’s curse](http://2e.aonprd.com/Monsters.aspx?ID=244)), +2 Striking [Frost](http://2e.aonprd.com/Equipment.aspx?ID=296) Greatsword, Greater [Staff of Conjuration](http://2e.aonprd.com/Equipment.aspx?ID=352), Greater [Choker of Elocution](http://2e.aonprd.com/Equipment.aspx?ID=422) (Thassilonian, Azlanti, and Aklo) emblazoned with a sihedron rune, +1 Striking longspear (4), Greater [Healing Potion](http://2e.aonprd.com/Equipment.aspx?ID=186), [Potion of Flying](http://2e.aonprd.com/Equipment.aspx?ID=189), [Planar Binding](https://2e.aonprd.com/Rituals.aspx?ID=17) ritual
 
 ### Part Three: The Undercity
 
-
 #### The Failed Mission
 
-**Treasure:** If pressed Koifa will offer the party 400 gp (500 gp with 5 players) for their silence (or other appropriate rewards such as uncommon or rare spells).
-
+**Treasure:** If pressed Koifa will offer the party 400 gp (500 gp with 5 players) for their silence (or other appropriate rewards such as uncommon or rare spells).<br>
 Koifa offers the party 150 gp for each adventurer they bring back, double that if they are alive.
-
 
 #### B. The Therassic Workshop
 
@@ -203,13 +178,13 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
     * **Treasure:** [Oathbow](http://2e.aonprd.com/Equipment.aspx?ID=392)
     * For 5 players give the Tallow Ooze the elite adjustment and add a [Wand of Overflowing Life](http://2e.aonprd.com/Equipment.aspx?ID=756) (4th)
 * **B9. Centrifuge (Low 11)**
-    * Luonim the Vast (Use [Stirvyn Banyan](https://pf2.easytool.es/index.php?id=6614&name=stirvyn_banyan))
+    * Luonim the Vast (Use [Stirvyn Banyan](https://pf2easy.com/index.php?id=6614&name=stirvyn_banyan))
         * Remove the Dangerous Sorcery ability and instead give him the following abilities
         * **Blood Pool** (Free Action) **Requirements** you are not currently suffering persistent bleed damage **Effect** Increase the damage of a damaging spell by 2 points/spell level, but you take 1 point of bleed damage/spell level and must make a fortitude save vs. your own spell DC.
             * **Critical Success** no effect
             * **Success** 1d6 persistent bleed
             * **Failure** 2d6 persistent bleed
-            * **Critical Failure **4d6 persistent bleed
+            * **Critical Failure** 4d6 persistent bleed
         * **Hemophilia** The flat check to recover from bleed effects is increased by 2.
     * **Hazard:** The room starts or stops spinning when the lever is pulled as an interact action.  Anyone outside the center of the room has a +25 [shove](http://2e.aonprd.com/Actions.aspx?ID=38) against them at the beginning of each of their turns, and moving towards the center of the room counts as difficult terrain. Jumping through an exit requires a DC33 basic reflex save or take 10d6 bludgeoning damage. On a failure the character becomes prone and stays on the same side of the door.
     * **Treasure:** [Wand of Teeming Ghosts](http://2e.aonprd.com/Equipment.aspx?ID=795) (4th), Scroll of [Shadow Walk](http://2e.aonprd.com/Spells.aspx?ID=275), [Bracers of Armor](http://2e.aonprd.com/Equipment.aspx?ID=416) I, [Flaying Knife](http://2e.aonprd.com/Equipment.aspx?ID=787)
@@ -223,7 +198,6 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
 * **B12. Drowning Chamber (Moderate 11)**
     * Hummelgau ([Advanced Grodair](https://monster.pf2.tools/v/Ho6Xr57x-advanced-grodair))
         * Hummelgrau is unable to use his jaws from inside the cage, but can use his tentacle or water jet attacks
-        * Attacks 
     * **Hazard:** Shocking Pool Trap
         * The pool acts on Hummelgrau’s turn
         * When initiative is rolled the pool begins to fill and the room becomes difficult terrain.
@@ -233,14 +207,14 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
     * For 5 players give Hummelgrau the elite adjustment.
 * **B13. Rune Door (Moderate 11)**
     * [Silasni](https://monster.pf2.tools/v/598RXpvl)
-        * **Development: _Silasni isn’t foolish enough to provoke a fight with a full party of adventurers. She has been studying the door and has figured out the ritual (below). She isn’t looking for allies, but knows she will need the help of others to be able to complete the ritual. When the party shows up she asks the ‘reinforcements’ to help her open the door while using mind reading to get a feeling for what they’re thinking. If they agree, once the ritual is complete, she steps through the door and immediately closes it before the rest of the party can make it through (Roll deception vs. the perception DC to see if the party is able to react)._**
+        * **Development:** *Silasni isn’t foolish enough to provoke a fight with a full party of adventurers. She has been studying the door and has figured out the ritual (below). She isn’t looking for allies, but knows she will need the help of others to be able to complete the ritual. When the party shows up she asks the ‘reinforcements’ to help her open the door while using mind reading to get a feeling for what they’re thinking. If they agree, once the ritual is complete, she steps through the door and immediately closes it before the rest of the party can make it through (Roll deception vs. the perception DC to see if the party is able to react).*
     * **Hazard:** Rune Door
         * The Rune Door requires a level 6 (level 5 if primary is using arcana) ritual to open. The steps of this ritual can be discovered with a full day of study and a DC28 Arcana Check or by watching the ritual and a DC26 Arcana Check.
-        * **Cast **1 minute; **Cost **none; **Secondary Casters** 2
+        * **Cast** 1 minute; **Cost** none; **Secondary Casters** 2
         * **Primary Check** Arcana (expert), Occultism (master), Religion (master) or Nature (master); **Secondary Checks** Arcana, Occultism, Religion or Nature
         * To open the door requires 6 symbols to be lit and the ritual must be performed continuously or all the symbols go dark.
-            * **Critical Success **3 of the symbols are lit.
-            * **Success **2 of the symbols are lit.
+            * **Critical Success** 3 of the symbols are lit.
+            * **Success** 2 of the symbols are lit.
             * **Failure** The door fires an arc of lightning dealing 6d12 electricity damage to the primary caster and 4d12 to each secondary caster with a DC28 basic reflex save.
             * **Critical Failure** As failure, but 1 of the lit symbols also goes dark
         * Once the door is open the primary caster can hold the door open for up to a minute to let others pass through before it automatically closes.
@@ -250,30 +224,26 @@ _Note, this map is very tight, the worst offender being B11 where there are 3 cr
 * **B14. River of Memory (Severe 11)**
     * [Thanadaemon](https://2e.aonprd.com/Monsters.aspx?ID=595)
     * Weak [Piscodaemon](https://2e.aonprd.com/Monsters.aspx?ID=592) (2)
-    * **Development:** _The Thanadaemon stands on the bridge and if the party approaches him or the river he speaks to them telepathically. He explains that he is willing to let those who give up something of great value pass. His preferred currency is a piece of soul (permanent drained 1 which can only be regained by recovering the piece of their soul on a character who chooses to do this), but he will also accept items that are worth at least 400 gp from each character, silently shaking his head if an offered item is not valuable enough. He requires a second “donation” of at least 200 gp to allow someone to take a vial of river water. If anyone takes a hostile action against him or approaches within 10 feet of the bridge without agreeing to his terms he telepathically alerts the Piscodaemons swimming in the river and attacks.
-    If Silasni makes it here she attempts to turn invisible and sneak past the Thanadaemon and is killed and turned into a soul gem. When the PCs arrive they can see her dessicated corpse lying at the base of the bridge._
+    * **Development:** *The Thanadaemon stands on the bridge and if the party approaches him or the river he speaks to them telepathically. He explains that he is willing to let those who give up something of great value pass. His preferred currency is a piece of soul (permanent drained 1 which can only be regained by recovering the piece of their soul on a character who chooses to do this), but he will also accept items that are worth at least 400 gp from each character, silently shaking his head if an offered item is not valuable enough. He requires a second “donation” of at least 200 gp to allow someone to take a vial of river water. If anyone takes a hostile action against him or approaches within 10 feet of the bridge without agreeing to his terms he telepathically alerts the Piscodaemons swimming in the river and attacks.*
+    *If Silasni makes it here alone she attempts to turn invisible and sneak past the Thanadaemon and is killed and turned into a soul gem. When the PCs arrive they can see her dessicated corpse lying at the base of the bridge.*
     * **Treasure:** +2 Greater Striking Bo Staff
     * For 5 players remove the weak adjustment from the Piscodaemons.
 * **B15. The Black Menhir (Severe 11)**
     * [Advanced Caulborn](https://monster.pf2.tools/v/lQ8vRt03) (2)
     * [Chrestomath](https://monster.pf2.tools/v/OSy6OrTP)
     * When returning here through the black menhir each creature must make a DC28 Fort save.
-        * **Critical Success **no effect
-        * **Success **Drained 1 and Stupefied 1
+        * **Critical Success** no effect
+        * **Success** Drained 1 and Stupefied 1
         * **Failure** Drained 2 and Stupefied 2
         * **Critical Failure** Drained 3 and Stupefied 3
     * For 5 players add 1 more Caulborn
 
-
 ## Level 12
 
+### [Addition 13: PFS 4-20 Words of the Ancients](../Additions/13-words-of-the-ancients.md)
 
-### Addition 13: PFS 4-20 Words of the Ancients
-
-_Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’s Thousand Columns east of Kaer Maga to seek out the activation runes for the refuge tokens they collected earlier. This can be run at any time during level 12, so if your characters need a break from Kaer Maga after the Therassic Workshop it can go here, or it can come any time during or just after the Black Keep. Conversion is [here](https://docs.google.com/document/d/1SUzZm6DQ9i4p2B9EkAH_AyJCdGZx0jPKFuM0MWkFjXU)._
-
-_**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256), Scroll of [Divine Wrath](https://2e.aonprd.com/Spells.aspx?ID=86) (5th) If Zonaladin is defeated and his lair searched he also has 12 emeralds worth 50gp each, scroll of [heal](https://2e.aonprd.com/Spells.aspx?ID=148) (5th), Book collection worth 300gp, [Sihedron Brand (Service)](https://template.pf2.tools/v/rpmsb186-sihedron-brand-service) (up to 1/player)._
-
+_Part 4 of the Cult of Lissala story arc has the players traveling to Desgard’s Thousand Columns east of Kaer Maga to seek out the activation runes for the refuge tokens they collected earlier. This can be run at any time during level 12, so if your characters need a break from Kaer Maga after the Therassic Workshop it can go here, or it can come any time during or just after the Black Keep._<br>
+**Treasure (for 5 players):** [Greater Holy Prayer Beads](https://2e.aonprd.com/Equipment.aspx?ID=256), Scroll of [Divine Wrath](https://2e.aonprd.com/Spells.aspx?ID=86) (5th) If Zonaladin is defeated and his lair searched he also has 12 emeralds worth 50gp each, scroll of [heal](https://2e.aonprd.com/Spells.aspx?ID=148) (5th), Book collection worth 300gp, [Sihedron Brand (Service)](https://template.pf2.tools/v/rpmsb186-sihedron-brand-service) (up to 1/player).
 
 ### Part Four: The Black Keep
 
@@ -289,9 +259,9 @@ _**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com
     * The door is locked with a [Good Lock](https://2e.aonprd.com/Equipment.aspx?ID=30) from outside.
     * [Pale Stranger](http://knowdirectionpodcast.com/2021/01/monstrous-physique-pale-stranger-pf2e/) (2)
         * If a member of the party tries to convince the pale strangers they are not rustlers give them a DC30 diplomacy check as a free action
-            * **Critical Success **The pale strangers believe them and leave the stables
+            * **Critical Success** The pale strangers believe them and leave the stables
             * **Success** The pale strangers pause their attack and allow the party to plead their case. Future checks gain a +4 circumstance bonus.
-            * **Critical Failure **The pale strangers are convinced the party are rustlers and can no longer be convinced otherwise
+            * **Critical Failure** The pale strangers are convinced the party are rustlers and can no longer be convinced otherwise
             * Attacking the pale strangers after a success or critical success automatically results in the critical failure condition. 
     * **Treasure: **+1 resilient leather armor (2), +1 striking dueling pistol (4) (strange design, sell value of 250gp each)
     * For 5 players give the pale strangers the elite adjustment.
@@ -307,7 +277,7 @@ _**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com
     * **Treasure:** With 10 minutes of searching and a DC30 perception check can find a book containing the [Raise Dead](http://2e.aonprd.com/Spells.aspx?ID=243) spell and [Resurrect](http://2e.aonprd.com/Rituals.aspx?ID=20) Ritual.
     * For 5 players add a Dread Wraith and a scroll of [Drop Dead](http://2e.aonprd.com/Spells.aspx?ID=92).
 * **C9. Harem (Low 12)**
-    * [Olanna ](https://monster.pf2.tools/v/j8ZhrypY)
+    * [Olanna](https://monster.pf2.tools/v/j8ZhrypY)
     * For 5 players give Olanna the Elite adjustment.
     * **Treasure:** +2 Greater Striking bastard sword
 * **C10. Secret Closet**
@@ -322,7 +292,7 @@ _**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com
     * This encounter becomes Severe if the Dark Rider joins.
     * For 5 players give the Shadow Mastiffs the elite adjustment.
 * **C13. Dullahan’s Glory (Trivial 12)**
-    * **Hazard: **[Hammer of Forbiddance](https://2e.aonprd.com/Hazards.aspx?ID=13)
+    * **Hazard:** [Hammer of Forbiddance](https://2e.aonprd.com/Hazards.aspx?ID=13)
         * Increase stats by 2 and give 20 extra hp
         * Targets anyone trying to take the skin harp or damaging the trap.
     * **Treasure:** Skin Harp, 
@@ -348,26 +318,24 @@ _**Treasure (for 5 players): **[Greater Holy Prayer Beads](https://2e.aonprd.com
         * Gain the negative healing ability and the undead trait
         * If killed, automatically rise as a zombie or similar undead.
         * Become doomed 1. This can not be removed while still cursed.
-    * **Treasure: **[Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
+    * **Treasure:** [Shard of Gluttony](https://template.pf2.tools/v/65JSvHRR-shard-of-gluttony)
 * **Caulborn Redux (Moderate 12)**
     * [Advanced Caulborn](https://monster.pf2.tools/v/lQ8vRt03) (2)
     * [Chrestomath](https://monster.pf2.tools/v/OSy6OrTP)
     * For 5 players add 1 more Caulborn
 
-
 ## Side Quests
 
 * **Magnimarian Quests**
     * **Industrial Espionage**
-        * **Treasure: **500 gp
+        * **Treasure:** 500 gp
     * **Bounty Hunting in the City of Strangers**
-        * **Treasure: **[Purple Worm Venom](https://2e.aonprd.com/Equipment.aspx?ID=126) (5)
+        * **Treasure:** [Purple Worm Venom](https://2e.aonprd.com/Equipment.aspx?ID=126) (5)
 * **Key NPC Quests**
     * **Abra Lopati**
         * **Treasure:** [Greater Halflight Charm](https://template.pf2.tools/v/HvFd6qbS-greater-halflight-charm)
     * **Augustille**
         * **Treasure:** [Marble Elephant Wondrous Figurine](https://2e.aonprd.com/Equipment.aspx?ID=270)
-
 
 ## Shards
 

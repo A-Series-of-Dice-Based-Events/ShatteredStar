@@ -15,12 +15,12 @@ Since Pathfinder 2 is much more friendly to high level play this adventure is cu
 
 | Title                                                        | Original<br />Level | Conversion<br />Status | Expanded<br />Level | Expanded<br />Status |
 | ------------------------------------------------------------ | ------------------- | ---------------------- | ------------------- | -------------------- |
-| [Book 1: Shards of Sin](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Chapter1) | 1 - 4               | :white_check_mark:     | 1 - 4               | :white_check_mark:   |
-| [Book 2: Curse of the Lady's Light](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Chapter2) | 5 - 7               | :white_large_square:   | 5 - 8               | :white_check_mark:   |
-| [Book 3: The Asylum Stone](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Chapter3) | 8 - 10              | :white_large_square:   | 9 - 12              | :white_check_mark:   |
-| [Book 4: Beyond the Doomsday Door](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Chapter4) | 10 - 12             | :white_large_square:   | 13 - 15             | :white_check_mark: |
-| [Book 5: Into the Nightmare Rift](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Chapter5) | 13 - 15             | :white_large_square:   | 16 - 18             | :white_large_square: |
-| [Book 6: The Dead Heart of Xin](https://github.com/A-Series-of-Dice-Based-Events/ShatteredStar/tree/master/Chapter6) | 15 - 17             | :white_large_square:   | 19 - 20             | :white_large_square: |
+| [Book 1: Shards of Sin](./Chapter1/README.md)                | 1 - 4               | :white_check_mark:     | 1 - 4               | :white_check_mark:   |
+| [Book 2: Curse of the Lady's Light](./Chapter2/README.md)    | 5 - 7               | :white_large_square:   | 5 - 8               | :white_check_mark:   |
+| [Book 3: The Asylum Stone](./Chapter3/README.md)             | 8 - 10              | :white_large_square:   | 9 - 12              | :white_check_mark:   |
+| [Book 4: Beyond the Doomsday Door](./Chapter4/README.md)     | 10 - 12             | :white_large_square:   | 13 - 15             | :white_check_mark:   |
+| [Book 5: Into the Nightmare Rift](./Chapter5/README.md)      | 13 - 15             | :white_large_square:   | 16 - 18             | :white_check_mark:   |
+| [Book 6: The Dead Heart of Xin](./Chapter6/README.md)        | 15 - 17             | :white_large_square:   | 19 - 20             | :white_check_mark:   |
 
 ## How does this even work?
 
