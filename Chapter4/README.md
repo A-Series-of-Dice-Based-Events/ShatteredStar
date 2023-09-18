@@ -28,65 +28,81 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
 
 * **The Giants (Low - Extreme+ 13)**
   * Three groups each consisting of 
-    * Advanced [Hill Giants](https://2e.aonprd.com/Monsters.aspx?ID=220) (Level 10) (2)
-    * Advanced [Ettins](https://2e.aonprd.com/Monsters.aspx?ID=204) (Level 9) (3)
+    * [Advanced Hill Giants](https://monster.pf2.tools/v/xHd7O8Rv) (Level 10) (2)
+    * [Advanced Ettins](https://monster.pf2.tools/v/P62pRRqq-advanced-ettin) (Level 9) (3)
   * **Treasure:** +2 striking greatclub (1/hill giant), +1 hide armor (1/hill giant), +1 striking flail(1/ettin), +1 striking battle axe (1/ettin)
   * For 5 players add a fourth group of giants.
+
 * **A1. Main Gate (Trivial 13)**
   * **Hazard:** [Falling Block Trap](https://template.pf2.tools/v/QfJQsRfj-falling-block-trap)
+
 * **A2. Courtyard (Trivial 13)**
   * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (4)
   * 1 redcap has a resonating bolt loaded to start this encounter
   * **Treasure:** [Resonating Bolts](https://2e.aonprd.com/Equipment.aspx?ID=1031) (2), +1 striking scythe (1/redcap)
   * For 5 players add 1 redcap
+
 * **A3. Postern Gate (Trivial 13)**
   * **Hazard:** Greater Glyph of Warding
     * Stealth DC 37, Disable Arcana or Occult DC 35 or dispel a 7th level spell.
     * 6d10 + 30 sonic damage and alerts everyone in the area (basic Reflex DC 37).
     * Deafens for an hour on a failure and permanently on a critical failure.
+
 * **A4. Lighthouse Entrance**
   * A [Lock](https://2e.aonprd.com/Spells.aspx?ID=174) spell (Level 9, DC36) has been placed on the lock to the lighthouse. Speaking "Pharasmae" can allow one to open the door.
+
 * **A5. Pharus Pharasme**
   * Casamir Asmeren *I didn't bother converting Casamir since he's not a combatant. If stats are needed he should be a cleric of Desna of ~level 10.*
+
 * **A6. Gatehouse Storeroom (Trivial 13)**
   * **Hazard:** [Poisoned Pit Trap](https://template.pf2.tools/v/yRZRh86o-poisoned-pit-trap)
+
 * **A7. Gatehouse Stairway**
   * The door is locked with a good [lock](https://2e.aonprd.com/Equipment.aspx?ID=30)
+
 * **A8. Gatehouse Guardpost (Trivial 13)**
-  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (4)
+  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) (4)
   * **Treasure:** +1 striking scythe (1/redcap)
   * For 5 players add 1 redcap
+
 * **A9. Gatehouse Watchpost (Moderate 13)**
-  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (4)
+  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) (4)
   * [Roy Flaxbeater](https://monster.pf2.tools/v/FMcPD3F8-roy-flaxbeater)
   * **Treasure:** +1 striking scythe (1/redcap), [Vampiric Scythe](https://2e.aonprd.com/Equipment.aspx?ID=1287), +1 resilient leather armor, and a keyring, the chest is locked with a good [lock](https://2e.aonprd.com/Equipment.aspx?ID=30) and contains a Greater cold [Potion of Retaliation](https://2e.aonprd.com/Equipment.aspx?ID=721) a Greater [Elixir of Life](https://2e.aonprd.com/Equipment.aspx?ID=91), 200 gp of currency and gems, and 100 gp worth of silverware stolen from the abbey
   * For 5 players give all of the Advanced Redcaps the Elite adjustment and add a second Elixir of Life and 200 gp of currency to the chest.
+
 * **A10. Labyrinth Without Walls (Moderate 13)**
   * Checks at DC20 are enough to give information about the lock.
   * **Hazard:** Doomsday Lock
     * If attempting to pick the lock make a DC30 reflex each round or picks are destroyed. The lock is a good [lock](https://2e.aonprd.com/Equipment.aspx?ID=30), but with the DC increased to 35.
     * Picking or otherwise forcing the door subjects everyone within 30 feet to a [Maze](https://2e.aonprd.com/Spells.aspx?ID=187) spell (DC 34). Each round creatures in the maze must make a DC34 Will save or increase their stupified condition by 1. If they become stupified 4 they can no longer help to escape the maze.
+
 * **A11. Charred Dormitory (Low 13)**
   * [Larla Clankypump](https://monster.pf2.tools/v/X6OMQ8fr-larla-clankypump)
   * Elite [Stone Mauler](https://2e.aonprd.com/Monsters.aspx?ID=185) (2)
   * **Treasure:** Greater [Persona Mask](https://2e.aonprd.com/Equipment.aspx?ID=451), +2 striking scythe, +2 striking composite shortbow, +1 resilient leather armor, [Potion of Flying](https://2e.aonprd.com/Equipment.aspx?ID=189) (2)
   * For 5 players give Larla the Elite adjustment
+
 * **A13. Pantry (Trivial 13)**
   * **Hazard:** Haggis Trap
     * Stealth DC 33, Disarm Occult or Religion DC 33
-    * Summons an Advanced [Nyogoth](https://2e.aonprd.com/Monsters.aspx?ID=774) (Level 13) for 1 minute.
+    * Summons an [Advanced Nyogoth](http://monster.pf2.tools/v/zFd2Qfod-advanced-nyogoth) (Level 13) for 1 minute.
+
 * **A14. Destroyed Cathedral (Moderate 13)**
-  * Advanced [Nyogoth](https://2e.aonprd.com/Monsters.aspx?ID=774) (Level 13) (2)
+  * [Advanced Nyogoth](http://monster.pf2.tools/v/zFd2Qfod-advanced-nyogoth) (Level 13) (2)
   * For 5 players give 1 of the Nyogoths the Elite adjustment.
+
 * **A15. Refectory (Low 13)**
-  * Advanced Ettin (Level 9) (3)
+  * [Advanced Ettins](https://monster.pf2.tools/v/P62pRRqq-advanced-ettin) (Level 9) (3)
   * [Kob-Kog](https://monster.pf2.tools/v/rhfoOdSS-kob-kog)
   * **Treasure:** +2 Striking Battle Axe, +2 Striking Pick, +1 Resilient Breastplate, +1 striking flail(1/ettin), +1 striking battle axe (1/ettin)
   * For 5 players give the Advanced Ettins the elite adjustment.
+
 * **A16. Guardroom (Trivial 13)**
   * **Hazard:** Greater Glyph of Warding (See **A3**) on the headdress
   * **Hazard:** [Poisoned Pit Trap](https://template.pf2.tools/v/yRZRh86o-poisoned-pit-trap)
   * **Treasure:** Greater [Crown of the Fire Eater](https://2e.aonprd.com/Equipment.aspx?ID=1435)
+
 * **A19. Abbot's Chambers**
   * **Treasure:** Rare edition of a [Scholarly Journal](https://2e.aonprd.com/Equipment.aspx?ID=64) on the Abyss, demons and qlippoth worth 75gp, book of poems (with doomsday lock combination)
 
@@ -102,8 +118,8 @@ A DC 20 Recall Knowledge Nature can identify the redcap's cap. A critical succes
 
 * **A22. Baths (Severe 13)**
   * [Sufestra](https://monster.pf2.tools/v/pHSQYDxv)
-  * Advanced [Hill Giants](https://2e.aonprd.com/Monsters.aspx?ID=220) (Level 10) (1)
-  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (2)
+  * [Advanced Hill Giants](https://monster.pf2.tools/v/xHd7O8Rv) (Level 10) (1)
+  * [Advanced Redcaps](https://monster.pf2.tools/v/45QL10td-advanced-redcap) (Level 9) (2)
   * **Treasure:** [Ring of Lies](https://2e.aonprd.com/Equipment.aspx?ID=456), +2 Greater Striking Shortsword, +2 Greater Resilient Chainmail, Oil of [Stone to Flesh](https://2e.aonprd.com/Spells.aspx?ID=311) (2), Doomsday Key, Scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105), 500gp in assorted jewelry, +2 striking greatclub (1/hill giant), +1 hide armor (1/hill giant), +1 striking scythe (1/redcap)
   * For 5 players add 1 more Hill Giant and 1 more Redcap
 
@@ -138,7 +154,7 @@ _Since each of the encounters in this area has the potential to spill into each 
   * DC20 Religion to recognize the globe as a depection of Groetus. A critical success gives more information.
 
 * **B6. Ice Room (Low 14)**
-  * Advanced [Ice Golems](https://2e.aonprd.com/Monsters.aspx?ID=683) (Level 10)
+  * [Advanced Ice Golems](http://monster.pf2.tools/v/Br10WCxb-advanced-ice-golem) (Level 10)
   * The door to this room requires a DC30 Athletics check to open. On a success the door opens, but the character must immediately roll for the slippery ground. On a critical success the character opens the door without issue.
   * The extreme cold deals 5d6 cold damage (basic fortitude save) each round.
   * The ground is slippery; after each stride make a DC30 acrobatics check, moving at half speed or less gives a +4 to this roll
@@ -206,13 +222,13 @@ _Since each of the encounters in this area has the potential to spill into each 
   * **Hazard:** Malfunctioning Portal, Arcana, Religion, Occult or Nature DC38(expert) to detect, DC42(master) to disable. 10d6 sonic and 10d6 force damage (DC38 basic reflex) targeting everyone in the room. Deafens for 1 hour on a failure and permanently on a critical failure. 
 
 * **D2. Underground Library (Trivial 15)**
-  * Ricle Peaks Advanced [Bogeyman](https://2e.aonprd.com/Monsters.aspx?ID=509) (Level 15)
+  * [Ricle Peaks](https://monster.pf2.tools/v/3PH1FrmW-ricle-peaks) (Advanced [Bogeyman](https://2e.aonprd.com/Monsters.aspx?ID=509) (Level 15))
     * In addition to statistic advancement, increase phantasmal killer's spell level to 6 and add [Phantasmal Calamity](https://2e.aonprd.com/Spells.aspx?ID=218) to his spell list. 
   * **Treasure:** Reference books that give a +3 item bonus when researching Thassilon, Azlant, or the worship of Groetus. Complete collection is 50 bulk, but worth 500gp. DC40 (master) to find the secret door to the north. The room contains a scroll of [Restoration](https://2e.aonprd.com/Spells.aspx?ID=258) (6th), and [All is One, One is All](https://2e.aonprd.com/Spells.aspx?ID=815), Commune ritual formula and components for 2 castings.
   * For 5 pleyrs advance Ricle Peaks to level 16 and add a scroll of [Ethereal Jaunt](https://2e.aonprd.com/Spells.aspx?ID=105) to the hidden room.
 
 * **D3. Cultist Cells (Low 15)**
-  * Advanced [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371) (Level 12) (4)
+  * [Advanced Wrathspawn](https://monster.pf2.tools/v/2VCCXsM1-advanced-wrathspawn) (Level 12) (4)
   * For 5 players give the Wrathspawn the elite adjustment.
 
 * **D4. Ancient Lounge (Low 15)**
@@ -318,7 +334,7 @@ _Since each of the encounters in this area has the potential to spill into each 
 
 * **E13. Temple of Doomsday (Extreme 15)**
   * Elite [Augnagar](https://2e.aonprd.com/Monsters.aspx?ID=776)
-  * Weak [Wrathspawn](https://2e.aonprd.com/Monsters.aspx?ID=371) (Level 12) (4)
+  * Weak [Advanced Wrathspawn](https://monster.pf2.tools/v/2VCCXsM1-advanced-wrathspawn) (Level 12) (4)
   * Weak [Ardathanatus](https://monster.pf2.tools/v/s0l41Ptb-ardathanatus)
   * *Note, if the party has both Koriah and Kandamereus with them this fight might actually become too easy since there is effectively a 6 player party. If your players want a more challenging fight you may want to replace the Augnagar with a Weak [Thulgant](https://2e.aonprd.com/Monsters.aspx?ID=777) as otherwise this can be a fairly easy final boss encounter.*
   * **Hazard:** Tentacle +25, 2d8+10 bludgeoning + grab, athletics +25. Use Ardathanatus' initiative for simplicity. For grabbed creatures constrict 5d8, DC35 and move 5 feet towards the portal on a failure, 10 feet on a critical failure. Unconscious creatures are pulled twice as far. Any creature pulled into the portal is driven insane/ripped apart by Yamasoth and is effectively lost forever.
