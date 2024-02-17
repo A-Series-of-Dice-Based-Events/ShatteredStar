@@ -1,33 +1,27 @@
 # Curse of the Lady’s Light
 
-_This is a conversion of the Adventure Path Curse of the Lady’s Light (Shattered Star Book 2) to Pathfinder 2nd edition.  This is intended to be a faithful conversion from the original meant for 4 players.  Since I am running this for 5 players I will also note potential additions for 5 players._
-_Expected level up points are noted and threat level of encounters are relative to those expected levels.  However, I use milestone leveling, so specific XP values are not given._
-_Since I am already converting the entire adventure path I am trying to make it cover the entire leveling range from 1-20. For this module, that means that it will be covering levels 5-8, with the characters just entering level 9 at the completion of the module._
+_This is a conversion of the Adventure Path Curse of the Lady’s Light (Shattered Star Book 2) to Pathfinder 2nd edition.  This is intended to be a faithful conversion from the original meant for 4 players.  Since I am running this for 5 players I will also note potential additions for 5 players._<br>
+_Expected level up points are noted and threat level of encounters are relative to those expected levels.  However, I use milestone leveling, so specific XP values are not given._<br>
+_Since I am already converting the entire adventure path I am trying to make it cover the entire leveling range from 1-20. For this module, that means that it will be covering levels 5-8, with the characters just entering level 9 at the completion of the module._<br>
 _In addition to the adventure path itself I will be adding several “Additions” that are intended to enhance the adventure path.  These conversions will be kept in separate documents so that this conversion is faithful to the original adventure, but the places where I would add the content is noted._
 
 ## Level 5
 
-#### Addition 6: Dawn of the Scarlet Sun
+#### [Addition 6: Dawn of the Scarlet Sun](../Additions/6-dawn-of-the-scarlet-sun.md)
 
-_This Free RPG Day adventure ties into the events in Curse of the Lady’s Light and provides some foreshadowing of what is to come.  Plus it’s free! Conversion can be found [here](https://docs.google.com/document/d/1Z-U1DrCMCLsKjmWlkriYJcuj3titSwFBfogw0kKGXxU/edit#heading=h.9ikuooxnc0tu)._
-
-_**Treasure:** 175gp, +1 dagger, +1 Disrupting scimitar, 4 Healing Potions (Lesser)_
-
+_This Free RPG Day adventure ties into the events in Curse of the Lady’s Light and provides some foreshadowing of what is to come.  Plus it’s free!_<br>
+**Treasure:** 175gp, +1 dagger, +1 Disrupting scimitar, 4 Healing Potions (Lesser)
 
 ### Part One: The Journey South
 
 **Treasure:** Sheila gives the party a [Clear Spindle Aeon Stone](https://2e.aonprd.com/Equipment.aspx?ID=407).
 
+#### [Addition 7: Curse of the Lady’s Light Web Supplement](../Additions/7-web-supplement.md)
 
-#### Addition 7: Curse of the Lady’s Light Web Supplement
-
-_This was originally supposed to be Part One of the adventure, but it got cut for space.  Fortunately, Paizo gave it back to us as a free web supplement. Conversion can be found [here](docs.google.com/document/d/1D2aUjMMEAHKOstmXiBUahpAkToU00SOBomN3jX38qec/)._
-
-_**Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?ID=481), +1 dagger_
-
+_This was originally supposed to be Part One of the adventure, but it got cut for space.  Fortunately, Paizo gave it back to us as a free web supplement._<br>
+**Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?ID=481), +1 dagger
 
 ### Part Two: The Lady’s Cape
-
 
 #### A. Maroux’s Isle (Moderate 5)
 
@@ -37,7 +31,6 @@ _**Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?
 * Maroux (Use [Demonologist](https://2e.aonprd.com/NPCs.aspx?ID=931))
 * **Treasure:** 30gp and 4 rare codicies worth 5gp each.
 
-
 #### B. Wreck of the Impdrake (Low 5)
 
 * Old Captain Linus Halfclasper (Use Elite Bloody [Skeletal Champion](https://2e.aonprd.com/Monsters.aspx?ID=373))
@@ -45,14 +38,11 @@ _**Treasure:** [Warrior’s Training Ring](https://2e.aonprd.com/Equipment.aspx?
 * For 5 players add 2 more skeletons
 * **Treasure:** [Ghoul Hide](https://2e.aonprd.com/Equipment.aspx?ID=153), (for 5 players add [Fear Gem](https://2e.aonprd.com/Equipment.aspx?ID=211))
 
-
 ## Level 6
-
 
 #### C. Battlefield
 
 * Can identify boggard and troglodyte (xulgath) bodies with DC15 society checks.  -2 penalty for xulgaths due to missing heads.
-
 
 #### D. Troglodyte Caves
 
@@ -63,7 +53,7 @@ _Note, the Troglodytes speak Draconic unless spoken to in another language they 
     * Troglodytes (4) (Use Elite [Xulgath Warrior](https://2e.aonprd.com/Monsters.aspx?ID=418))
     * For 5 players add 1 more Troglodyte
 * **D2. Pitfall (Trivial 6)**
-    * **Hazard: **Pit Trap (Use [Spiky Pit](https://pf2.easytool.es/index.php?id=7480&name=spiky_pit))
+    * **Hazard:** Pit Trap (Use [Spiky Pit](https://pf2easy.com/index.php?id=7480&name=spiky_pit))
 * **D3. Warrior’s Pyre (Trivial 6)**
     * Troglodytes (4)
     * For 5 players add 2 more Troglodytes
@@ -85,11 +75,10 @@ _Note, the Troglodytes speak Draconic unless spoken to in another language they 
     * There are 14 troglodytes that are sick with filth fever.  Without treatment 4 will survive, while the other 10 will die.
     * If the characters decide to treat the ill troglodytes, assume that 4 will perish each day.  Have each character who treats the ill roll a DC19 medicine check (feel free to give bonuses for relevant skill feats such as ward medic)
         * **Success** 1 fewer troglodyte will perish this day
-        * **Critical Success **2 fewer troglodytes will perish this day, 1 troglodyte is cured
-        * **Failure **no effect
-        * **Critical Failure **1 more troglodyte will perish this day
+        * **Critical Success** 2 fewer troglodytes will perish this day, 1 troglodyte is cured
+        * **Failure** no effect
+        * **Critical Failure** 1 more troglodyte will perish this day
         * After 4 days of treating the troglodytes any remaining troglodytes that haven’t perished survive the illness.
-
 
 #### E. Cavern of Many Mouths (Moderate 6)
 
@@ -98,7 +87,6 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * Gegganallag (Use [Pyrohydra](http://monster.pf2.tools/v/HwBDqSM2-pyrohydra))
 * For 5 players increase the hydra’s hp by 20 and begin with 1 extra head.
 * **Treasure:** [Ventriloquist’s Ring](https://2e.aonprd.com/Equipment.aspx?ID=468), [Wand of Noisome Acid (level 2)](https://2e.aonprd.com/Equipment.aspx?ID=794), jewelry worth 30gp, 240sp, 123gp, 9pp, 3x [acid flask (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=74), 3x [frost vials (moderate)](https://2e.aonprd.com/Equipment.aspx?ID=77)
-
 
 #### F. Boggard Village
 
@@ -121,7 +109,6 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * DC18 Fortitude to avoid becoming sickened 1.  Anyone with hp damage is exposed to [Filth Fever](https://2e.aonprd.com/Monsters.aspx?ID=682).
     * Azoresh (Troglodyte with stage 3 filth fever).
 
-
 #### G. Temple of Gogunta
 
 * **G1. Outer Shrine (Trivial 6)**
@@ -131,11 +118,9 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** +1 [Shifting](https://2e.aonprd.com/Equipment.aspx?ID=302) Striking Mace
     * For 5 players add 2 [Giant Frog](https://2e.aonprd.com/Monsters.aspx?ID=675) and a [Grim Trophy](https://2e.aonprd.com/Equipment.aspx?ID=216)
 
-
 #### H. The Lady’s Light (Moderate 6)
 
 * [Will-o’-Wisp](https://2e.aonprd.com/Monsters.aspx?ID=414) (2)
-
 
 #### I. Solifugid Nest (Low 6)
 
@@ -143,18 +128,14 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * [Albino Cave Solifugid](https://monster.pf2.tools/v/q3RJzywo) (3) 
 * For 5 players add 1 more Solifugid
 
-
 #### J. Entrance Chamber (Moderate 6)
 
 * [Caryatid Column](https://monster.pf2.tools/v/YBO2127m) (4)
 * For 5 players add 1 column
 
-
 ## Level 7
 
-
 ### Part Three: The Lady’s Light
-
 
 #### K. Dungeon Level 1
 
@@ -183,7 +164,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** 10gp/player of high quality glass can be scavenged weighing 1 bulk.
 * **K7. Maidens’ Graves**
     * DC15 Society to identify the bodies.
-    * **Treasure:** Gray Maiden Plate (2) (Use stats for [Hellknight Plate](https://2e.aonprd.com/Armor.aspx?ID=14))
+    * **Treasure:** [Gray Maiden Plate](https://2e.aonprd.com/Armor.aspx?ID=15) (2)
 * **K8. Lascivious Mural**
     * DC20 Perception to notice the signature.
 * **K9. A Spurned Constort (Low 7)**
@@ -196,7 +177,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** A single wand of [Slow](https://2e.aonprd.com/Spells.aspx?ID=289) (3rd) can be scavenged from the sentinels.
     * For 5 players add 1 sentinel and a [Basilisk’s Eye](https://2e.aonprd.com/Equipment.aspx?ID=708).
 * **K11. Pit Trap (Trivial 7)**
-    * [Spiky Pit](https://pf2.easytool.es/index.php?id=7480&name=spiky_pit)
+    * [Spiky Pit](https://pf2easy.com/index.php?id=7480&name=spiky_pit)
     * _Note, this trap is really boring.  I recommend swapping it out with [Poisoned Dart Gallery](http://2e.aonprd.com/Hazards.aspx?ID=25).  This increases the threat level to Low 7._
 * **K12. Battle Site (Low 7)**
     * [Incubus](https://monster.pf2.tools/v/ylmtFWZ5-incubus) (2)
@@ -205,8 +186,8 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **K13. Chamber of the Gray Flame (Trivial 7)**
     * Damp floor requires a DC15 Acrobatics check for each move action
         * **Success** Move normally
-        * **Failure **Floor is considered difficult terrain
-        * **Critical Failure **Fall prone
+        * **Failure** Floor is considered difficult terrain
+        * **Critical Failure** Fall prone
     * [Advanced Cacodaemons](http://monster.pf2.tools/v/T9MV7WSS-advanced-cacodaemon) (4)
     * For 5 players add 1 Cacodaemon
 * **K14. Shrine of Supplication**
@@ -231,7 +212,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
 * **K21. Conjuration Lab (Severe 7)**
     * _There isn’t really any good replacement for the book in this room, so I’ve replaced it with another valuable item. You should add a crown to the description of the room._
     * [Fiendish Seugathi](https://monster.pf2.tools/v/HQ4Lsozh)
-    * **Hazard: **Each round after the Seugathi is summoned the portal remains open summoning a random Demon through.  
+    * **Hazard:** Each round after the Seugathi is summoned the portal remains open summoning a random Demon through.  
         * Roll 1d6:
             * 1-2: [Abrikandilu](http://2e.aonprd.com/Monsters.aspx?ID=499)
             * 3-4: Elite Abrikandilu
@@ -241,16 +222,14 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** +1 Striking Flaming Longsword (wielded by the Seugathi), _From the Minds of Monsters_ ([Scholarly Journal (Compendium)](http://2e.aonprd.com/Equipment.aspx?ID=64) on the topic of mind affecting monsters), [Hat of the Magi (Greatrer)](http://2e.aonprd.com/Equipment.aspx?ID=443) in the form of a crown
     * For 5 players the Seugathi is also equipped with a wand of [Heal (Level 3)](https://2e.aonprd.com/Spells.aspx?ID=148), add the Elite adjustment to the summoned Abrikandilu and Babu (the Elite Abrikandilu remains the same).
 
-
 ## Level 8
-
 
 #### L. Dungeon Level 2
 
 * **L2. The Phosphorescent Lake (Trivial 8)**
     * Lacedon (8) (Use Elite [Ghast](https://2e.aonprd.com/Monsters.aspx?ID=219), but replace burrow with swim 30 feet)
     * Attacking from a boat incurs a -1 circumstance penalty, -3 if the Lacedons are rocking the boat.
-    * Rocking the boat is a 2 action activity with the attack trait.  A lacedon can try to capsize a boat they are already rocking with a 2 action athletics check vs DC17.  A character can stabalize a boat to reduce the circumstance penalty to -2 and increase the capsize DC to their Reflex DC. Stabalizing is a 2 action activity with the attack trait.
+    * Rocking the boat is a 2 action activity with the attack trait.  A lacedon can try to capsize a boat they are already rocking with a 2 action athletics check vs DC17.  A character can stabilize a boat to reduce the circumstance penalty to -2 and increase the capsize DC to their Reflex DC. Stabilizing is a 2 action activity with the attack trait.
     * For 5 players add 2 more lacedons.
 * **L4. Mochtau's Hall (Moderate 8)**
     * Mochtau (Use [Stone Giant](https://2e.aonprd.com/Monsters.aspx?ID=221))
@@ -291,7 +270,7 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Hazard:** [Green Slime](http://2e.aonprd.com/Hazards.aspx?ID=40) falls on anyone who enters the pit
     * DC20 acrobatics to avoid slipping while walking around the pit.  Otherwise DC20 Reflex to catch an edge.  DC24 climb check to get out of the pit.
 * **L17. Perfumed Trap (Moderate 8)**
-    * **Hazard:** Perfume Trap (Use a reflavored [Hallowed Wheel](https://pf2.easytool.es/index.php?id=5492&name=hallowed_wheel))
+    * **Hazard:** Perfume Trap (Use a reflavored [Hallowed Wheel](https://pf2easy.com/index.php?id=5492&name=hallowed_wheel))
     * **Treasure:** Gold Chain worth 25gp. 20 vials of perfume worth 10gp each.
     * For 5 players add 5 more vials of perfume.
 * **L18. Secret Shrine (Moderate 8)**
@@ -325,11 +304,10 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
     * **Treasure:** +1 Longsword (1/maiden), Gray Maiden Plate (1/maiden)
     * For 5 players add 2 extra Gray Maidens
 * **L24. Unfinished Mural (Low 8)**
-    * Vampiric Mists (6) (Replace with [Ghost Commoner](http://2e.aonprd.com/Monsters.aspx?ID=216))
+    * Elite [Vampiric Mists](https://2e.aonprd.com/Monsters.aspx?ID=845) (6)
 * **L25. Sorshen’s Great Secret (Severe 8)**
     * Elite [Babau Demons](http://2e.aonprd.com/Monsters.aspx?ID=598) (4)
     * **Treasure:** The Pathfinder Society will offer 200gp for a detailed description of this area.
-
 
 #### M. Upper Level
 
@@ -351,9 +329,8 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
         * 3 points: Ashamintallu is stunned 2 and uses her first action to change shape. Ashamintallu and her minions fight to the death.
         * 4 points: Ashamintallu is slowed 1.
     * _This is the first extreme level encounter I’ve put in these conversions.  This encounter will be quite difficult if your party doesn’t have the help of Oriana or the ability to get a few successes while talking to Ashamintallu._
-* **M4. The Arcane Oubliette **
+* **M4. The Arcane Oubliette**
     * **Treasure:** [Shard of Lust](https://template.pf2.tools/v/SFSqpYZQ-shard-of-lust), Spellbook containing the following uncommon spells: [Aromatic Lure](https://2e.aonprd.com/Spells.aspx?ID=812), [Clownish Curse](https://2e.aonprd.com/Spells.aspx?ID=642), [Favorable Review](https://2e.aonprd.com/Spells.aspx?ID=644), +1 Breastplate, [Goggles of Night](https://2e.aonprd.com/Equipment.aspx?ID=438), [Boots of Bounding](https://2e.aonprd.com/Equipment.aspx?ID=412), 100gp in misc treasure
-
 
 ## Side Quests
 
@@ -362,7 +339,6 @@ _Note, the pyrohydra can be quite difficult if the players don’t have any reli
         * **Treasure:** 200 gp
     * **Seeking Salacious Relics**
         * **Treasure:** 25 gp/item
-
 
 ## Shards
 
